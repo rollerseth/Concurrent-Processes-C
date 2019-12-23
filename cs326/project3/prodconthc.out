@@ -1,0 +1,3064 @@
+Username:  rollers
+Date:      Thu Oct 31 00:52:44 EDT 2019
+ 
+*** compiling ***
+--- running ---
+ 
+I am the producer and my thread number is 0 
+producer data[0] = 0
+P:hreadnum: 0
+
+I am the producer and my thread number is 1 
+I am the consumer and my thread number is 2 
+consumer data[0] = 0
+C:threadnum: 2
+producer data[1] = 1
+P:hreadnum: 0
+
+I am the consumer and my thread number is 3 
+consumer data[1] = 1
+C:threadnum: 3
+producer data[2] = 2
+P:hreadnum: 1
+
+consumer data[2] = 2
+C:threadnum: 3
+producer data[3] = 3
+P:hreadnum: 0
+
+consumer data[3] = 3
+C:threadnum: 3
+producer data[4] = 4
+P:hreadnum: 1
+
+consumer data[4] = 4
+C:threadnum: 3
+producer data[5] = 5
+P:hreadnum: 1
+
+consumer data[5] = 5
+C:threadnum: 3
+producer data[6] = 6
+P:hreadnum: 0
+
+consumer data[6] = 6
+C:threadnum: 3
+producer data[7] = 7
+P:hreadnum: 1
+
+consumer data[7] = 7
+C:threadnum: 2
+producer data[8] = 8
+P:hreadnum: 1
+
+consumer data[8] = 8
+C:threadnum: 3
+producer data[9] = 9
+P:hreadnum: 1
+
+consumer data[9] = 9
+C:threadnum: 3
+producer data[0] = 10
+P:hreadnum: 1
+
+consumer data[0] = 10
+C:threadnum: 3
+producer data[1] = 11
+P:hreadnum: 1
+
+consumer data[1] = 11
+C:threadnum: 2
+producer data[2] = 12
+P:hreadnum: 1
+
+consumer data[2] = 12
+C:threadnum: 3
+producer data[3] = 13
+P:hreadnum: 0
+
+consumer data[3] = 13
+C:threadnum: 2
+producer data[4] = 14
+P:hreadnum: 1
+
+consumer data[4] = 14
+C:threadnum: 3
+producer data[5] = 15
+P:hreadnum: 1
+
+consumer data[5] = 15
+C:threadnum: 2
+producer data[6] = 16
+P:hreadnum: 0
+
+consumer data[6] = 16
+C:threadnum: 2
+producer data[7] = 17
+P:hreadnum: 1
+
+consumer data[7] = 17
+C:threadnum: 2
+producer data[8] = 18
+P:hreadnum: 1
+
+consumer data[8] = 18
+C:threadnum: 2
+producer data[9] = 19
+P:hreadnum: 1
+
+consumer data[9] = 19
+C:threadnum: 3
+producer data[0] = 20
+P:hreadnum: 0
+
+consumer data[0] = 20
+C:threadnum: 2
+producer data[1] = 21
+P:hreadnum: 1
+
+consumer data[1] = 21
+C:threadnum: 2
+producer data[2] = 22
+P:hreadnum: 1
+
+consumer data[2] = 22
+C:threadnum: 2
+producer data[3] = 23
+P:hreadnum: 1
+
+consumer data[3] = 23
+C:threadnum: 3
+producer data[4] = 24
+P:hreadnum: 1
+
+consumer data[4] = 24
+C:threadnum: 2
+producer data[5] = 25
+P:hreadnum: 0
+
+consumer data[5] = 25
+C:threadnum: 3
+producer data[6] = 26
+P:hreadnum: 1
+
+consumer data[6] = 26
+C:threadnum: 3
+producer data[7] = 27
+P:hreadnum: 0
+
+consumer data[7] = 27
+C:threadnum: 3
+producer data[8] = 28
+P:hreadnum: 0
+
+consumer data[8] = 28
+C:threadnum: 3
+producer data[9] = 29
+P:hreadnum: 0
+
+consumer data[9] = 29
+C:threadnum: 3
+producer data[0] = 30
+P:hreadnum: 0
+
+consumer data[0] = 30
+C:threadnum: 3
+producer data[1] = 31
+P:hreadnum: 1
+
+consumer data[1] = 31
+C:threadnum: 2
+producer data[2] = 32
+P:hreadnum: 1
+
+consumer data[2] = 32
+C:threadnum: 2
+producer data[3] = 33
+P:hreadnum: 1
+
+consumer data[3] = 33
+C:threadnum: 2
+producer data[4] = 34
+P:hreadnum: 1
+
+consumer data[4] = 34
+C:threadnum: 2
+producer data[5] = 35
+P:hreadnum: 1
+
+consumer data[5] = 35
+C:threadnum: 2
+producer data[6] = 36
+P:hreadnum: 1
+
+consumer data[6] = 36
+C:threadnum: 3
+producer data[7] = 37
+P:hreadnum: 1
+
+consumer data[7] = 37
+C:threadnum: 2
+producer data[8] = 38
+P:hreadnum: 0
+
+consumer data[8] = 38
+C:threadnum: 3
+producer data[9] = 39
+P:hreadnum: 1
+
+consumer data[9] = 39
+C:threadnum: 2
+producer data[0] = 40
+P:hreadnum: 1
+
+consumer data[0] = 40
+C:threadnum: 2
+producer data[1] = 41
+P:hreadnum: 0
+
+consumer data[1] = 41
+C:threadnum: 3
+producer data[2] = 42
+P:hreadnum: 1
+
+consumer data[2] = 42
+C:threadnum: 2
+producer data[3] = 43
+P:hreadnum: 1
+
+consumer data[3] = 43
+C:threadnum: 2
+producer data[4] = 44
+P:hreadnum: 1
+
+consumer data[4] = 44
+C:threadnum: 2
+producer data[5] = 45
+P:hreadnum: 1
+
+consumer data[5] = 45
+C:threadnum: 3
+producer data[6] = 46
+P:hreadnum: 1
+
+consumer data[6] = 46
+C:threadnum: 2
+producer data[7] = 47
+P:hreadnum: 0
+
+consumer data[7] = 47
+C:threadnum: 3
+producer data[8] = 48
+P:hreadnum: 0
+
+consumer data[8] = 48
+C:threadnum: 2
+producer data[9] = 49
+P:hreadnum: 1
+
+consumer data[9] = 49
+C:threadnum: 2
+producer data[0] = 50
+P:hreadnum: 0
+
+consumer data[0] = 50
+C:threadnum: 2
+producer data[1] = 51
+P:hreadnum: 0
+
+consumer data[1] = 51
+C:threadnum: 2
+producer data[2] = 52
+P:hreadnum: 1
+
+consumer data[2] = 52
+C:threadnum: 3
+producer data[3] = 53
+P:hreadnum: 1
+
+consumer data[3] = 53
+C:threadnum: 2
+producer data[4] = 54
+P:hreadnum: 1
+
+consumer data[4] = 54
+C:threadnum: 2
+producer data[5] = 55
+P:hreadnum: 0
+
+consumer data[5] = 55
+C:threadnum: 2
+producer data[6] = 56
+P:hreadnum: 1
+
+consumer data[6] = 56
+C:threadnum: 2
+producer data[7] = 57
+P:hreadnum: 0
+
+consumer data[7] = 57
+C:threadnum: 2
+producer data[8] = 58
+P:hreadnum: 1
+
+consumer data[8] = 58
+C:threadnum: 2
+producer data[9] = 59
+P:hreadnum: 0
+
+consumer data[9] = 59
+C:threadnum: 2
+producer data[0] = 60
+P:hreadnum: 0
+
+consumer data[0] = 60
+C:threadnum: 3
+producer data[1] = 61
+P:hreadnum: 1
+
+consumer data[1] = 61
+C:threadnum: 3
+producer data[2] = 62
+P:hreadnum: 1
+
+consumer data[2] = 62
+C:threadnum: 2
+producer data[3] = 63
+P:hreadnum: 0
+
+consumer data[3] = 63
+C:threadnum: 2
+producer data[4] = 64
+P:hreadnum: 0
+
+consumer data[4] = 64
+C:threadnum: 2
+producer data[5] = 65
+P:hreadnum: 1
+
+consumer data[5] = 65
+C:threadnum: 3
+producer data[6] = 66
+P:hreadnum: 1
+
+consumer data[6] = 66
+C:threadnum: 2
+producer data[7] = 67
+P:hreadnum: 1
+
+consumer data[7] = 67
+C:threadnum: 3
+producer data[8] = 68
+P:hreadnum: 1
+
+consumer data[8] = 68
+C:threadnum: 3
+producer data[9] = 69
+P:hreadnum: 0
+
+consumer data[9] = 69
+C:threadnum: 3
+producer data[0] = 70
+P:hreadnum: 0
+
+consumer data[0] = 70
+C:threadnum: 3
+producer data[1] = 71
+P:hreadnum: 0
+
+consumer data[1] = 71
+C:threadnum: 3
+producer data[2] = 72
+P:hreadnum: 1
+
+consumer data[2] = 72
+C:threadnum: 2
+producer data[3] = 73
+P:hreadnum: 0
+
+consumer data[3] = 73
+C:threadnum: 3
+producer data[4] = 74
+P:hreadnum: 1
+
+consumer data[4] = 74
+C:threadnum: 2
+producer data[5] = 75
+P:hreadnum: 0
+
+consumer data[5] = 75
+C:threadnum: 3
+producer data[6] = 76
+P:hreadnum: 0
+
+consumer data[6] = 76
+C:threadnum: 3
+producer data[7] = 77
+P:hreadnum: 0
+
+consumer data[7] = 77
+C:threadnum: 2
+producer data[8] = 78
+P:hreadnum: 0
+
+consumer data[8] = 78
+C:threadnum: 3
+producer data[9] = 79
+P:hreadnum: 1
+
+consumer data[9] = 79
+C:threadnum: 2
+producer data[0] = 80
+P:hreadnum: 0
+
+consumer data[0] = 80
+C:threadnum: 3
+producer data[1] = 81
+P:hreadnum: 1
+
+consumer data[1] = 81
+C:threadnum: 3
+producer data[2] = 82
+P:hreadnum: 0
+
+consumer data[2] = 82
+C:threadnum: 3
+producer data[3] = 83
+P:hreadnum: 0
+
+consumer data[3] = 83
+C:threadnum: 2
+producer data[4] = 84
+P:hreadnum: 0
+
+consumer data[4] = 84
+C:threadnum: 3
+producer data[5] = 85
+P:hreadnum: 0
+
+consumer data[5] = 85
+C:threadnum: 2
+producer data[6] = 86
+P:hreadnum: 1
+
+consumer data[6] = 86
+C:threadnum: 3
+producer data[7] = 87
+P:hreadnum: 0
+
+consumer data[7] = 87
+C:threadnum: 3
+producer data[8] = 88
+P:hreadnum: 1
+
+consumer data[8] = 88
+C:threadnum: 2
+producer data[9] = 89
+P:hreadnum: 0
+
+consumer data[9] = 89
+C:threadnum: 2
+producer data[0] = 90
+P:hreadnum: 0
+
+consumer data[0] = 90
+C:threadnum: 2
+producer data[1] = 91
+P:hreadnum: 1
+
+consumer data[1] = 91
+C:threadnum: 3
+producer data[2] = 92
+P:hreadnum: 1
+
+consumer data[2] = 92
+C:threadnum: 2
+producer data[3] = 93
+P:hreadnum: 1
+
+consumer data[3] = 93
+C:threadnum: 2
+producer data[4] = 94
+P:hreadnum: 1
+
+consumer data[4] = 94
+C:threadnum: 3
+producer data[5] = 95
+P:hreadnum: 1
+
+consumer data[5] = 95
+C:threadnum: 3
+producer data[6] = 96
+P:hreadnum: 1
+
+consumer data[6] = 96
+C:threadnum: 3
+producer data[7] = 97
+P:hreadnum: 0
+
+consumer data[7] = 97
+C:threadnum: 3
+producer data[8] = 98
+P:hreadnum: 0
+
+consumer data[8] = 98
+C:threadnum: 2
+producer data[9] = 99
+P:hreadnum: 0
+
+producer 1 exiting
+consumer data[9] = 99
+C:threadnum: 3
+consumer 3 exiting
+producer 0 exiting
+consumer 2 exiting
+--- Running again ---
+ 
+I am the producer and my thread number is 0 
+I am the producer and my thread number is 1 
+I am the consumer and my thread number is 3 
+producer data[0] = 0
+P:hreadnum: 0
+
+consumer data[0] = 0
+C:threadnum: 3
+I am the consumer and my thread number is 2 
+producer data[1] = 1
+P:hreadnum: 0
+
+consumer data[1] = 1
+C:threadnum: 3
+producer data[2] = 2
+P:hreadnum: 1
+
+consumer data[2] = 2
+C:threadnum: 2
+producer data[3] = 3
+P:hreadnum: 0
+
+consumer data[3] = 3
+C:threadnum: 3
+producer data[4] = 4
+P:hreadnum: 0
+
+consumer data[4] = 4
+C:threadnum: 3
+producer data[5] = 5
+P:hreadnum: 0
+
+consumer data[5] = 5
+C:threadnum: 3
+producer data[6] = 6
+P:hreadnum: 0
+
+consumer data[6] = 6
+C:threadnum: 3
+producer data[7] = 7
+P:hreadnum: 0
+
+consumer data[7] = 7
+C:threadnum: 2
+producer data[8] = 8
+P:hreadnum: 0
+
+consumer data[8] = 8
+C:threadnum: 2
+producer data[9] = 9
+P:hreadnum: 0
+
+consumer data[9] = 9
+C:threadnum: 2
+producer data[0] = 10
+P:hreadnum: 1
+
+consumer data[0] = 10
+C:threadnum: 2
+producer data[1] = 11
+P:hreadnum: 0
+
+consumer data[1] = 11
+C:threadnum: 2
+producer data[2] = 12
+P:hreadnum: 1
+
+consumer data[2] = 12
+C:threadnum: 3
+producer data[3] = 13
+P:hreadnum: 1
+
+consumer data[3] = 13
+C:threadnum: 2
+producer data[4] = 14
+P:hreadnum: 0
+
+consumer data[4] = 14
+C:threadnum: 2
+producer data[5] = 15
+P:hreadnum: 1
+
+consumer data[5] = 15
+C:threadnum: 3
+producer data[6] = 16
+P:hreadnum: 1
+
+consumer data[6] = 16
+C:threadnum: 2
+producer data[7] = 17
+P:hreadnum: 0
+
+consumer data[7] = 17
+C:threadnum: 2
+producer data[8] = 18
+P:hreadnum: 1
+
+consumer data[8] = 18
+C:threadnum: 2
+producer data[9] = 19
+P:hreadnum: 0
+
+consumer data[9] = 19
+C:threadnum: 3
+producer data[0] = 20
+P:hreadnum: 0
+
+consumer data[0] = 20
+C:threadnum: 2
+producer data[1] = 21
+P:hreadnum: 1
+
+consumer data[1] = 21
+C:threadnum: 2
+producer data[2] = 22
+P:hreadnum: 0
+
+consumer data[2] = 22
+C:threadnum: 3
+producer data[3] = 23
+P:hreadnum: 0
+
+consumer data[3] = 23
+C:threadnum: 2
+producer data[4] = 24
+P:hreadnum: 1
+
+consumer data[4] = 24
+C:threadnum: 3
+producer data[5] = 25
+P:hreadnum: 1
+
+consumer data[5] = 25
+C:threadnum: 3
+producer data[6] = 26
+P:hreadnum: 1
+
+consumer data[6] = 26
+C:threadnum: 2
+producer data[7] = 27
+P:hreadnum: 0
+
+consumer data[7] = 27
+C:threadnum: 2
+producer data[8] = 28
+P:hreadnum: 1
+
+consumer data[8] = 28
+C:threadnum: 2
+producer data[9] = 29
+P:hreadnum: 1
+
+consumer data[9] = 29
+C:threadnum: 2
+producer data[0] = 30
+P:hreadnum: 1
+
+consumer data[0] = 30
+C:threadnum: 3
+producer data[1] = 31
+P:hreadnum: 1
+
+consumer data[1] = 31
+C:threadnum: 2
+producer data[2] = 32
+P:hreadnum: 1
+
+consumer data[2] = 32
+C:threadnum: 2
+producer data[3] = 33
+P:hreadnum: 1
+
+consumer data[3] = 33
+C:threadnum: 2
+producer data[4] = 34
+P:hreadnum: 0
+
+consumer data[4] = 34
+C:threadnum: 2
+producer data[5] = 35
+P:hreadnum: 0
+
+consumer data[5] = 35
+C:threadnum: 2
+producer data[6] = 36
+P:hreadnum: 0
+
+consumer data[6] = 36
+C:threadnum: 2
+producer data[7] = 37
+P:hreadnum: 1
+
+consumer data[7] = 37
+C:threadnum: 2
+producer data[8] = 38
+P:hreadnum: 0
+
+consumer data[8] = 38
+C:threadnum: 2
+producer data[9] = 39
+P:hreadnum: 0
+
+consumer data[9] = 39
+C:threadnum: 2
+producer data[0] = 40
+P:hreadnum: 0
+
+consumer data[0] = 40
+C:threadnum: 2
+producer data[1] = 41
+P:hreadnum: 1
+
+consumer data[1] = 41
+C:threadnum: 2
+producer data[2] = 42
+P:hreadnum: 0
+
+consumer data[2] = 42
+C:threadnum: 3
+producer data[3] = 43
+P:hreadnum: 0
+
+consumer data[3] = 43
+C:threadnum: 2
+producer data[4] = 44
+P:hreadnum: 1
+
+consumer data[4] = 44
+C:threadnum: 2
+producer data[5] = 45
+P:hreadnum: 0
+
+consumer data[5] = 45
+C:threadnum: 2
+producer data[6] = 46
+P:hreadnum: 1
+
+consumer data[6] = 46
+C:threadnum: 3
+producer data[7] = 47
+P:hreadnum: 1
+
+consumer data[7] = 47
+C:threadnum: 2
+producer data[8] = 48
+P:hreadnum: 0
+
+consumer data[8] = 48
+C:threadnum: 3
+producer data[9] = 49
+P:hreadnum: 0
+
+consumer data[9] = 49
+C:threadnum: 3
+producer data[0] = 50
+P:hreadnum: 1
+
+consumer data[0] = 50
+C:threadnum: 3
+producer data[1] = 51
+P:hreadnum: 0
+
+consumer data[1] = 51
+C:threadnum: 3
+producer data[2] = 52
+P:hreadnum: 1
+
+consumer data[2] = 52
+C:threadnum: 3
+producer data[3] = 53
+P:hreadnum: 1
+
+consumer data[3] = 53
+C:threadnum: 3
+producer data[4] = 54
+P:hreadnum: 1
+
+consumer data[4] = 54
+C:threadnum: 3
+producer data[5] = 55
+P:hreadnum: 1
+
+consumer data[5] = 55
+C:threadnum: 2
+producer data[6] = 56
+P:hreadnum: 1
+
+consumer data[6] = 56
+C:threadnum: 2
+producer data[7] = 57
+P:hreadnum: 0
+
+consumer data[7] = 57
+C:threadnum: 2
+producer data[8] = 58
+P:hreadnum: 0
+
+consumer data[8] = 58
+C:threadnum: 3
+producer data[9] = 59
+P:hreadnum: 0
+
+consumer data[9] = 59
+C:threadnum: 3
+producer data[0] = 60
+P:hreadnum: 1
+
+consumer data[0] = 60
+C:threadnum: 3
+producer data[1] = 61
+P:hreadnum: 1
+
+consumer data[1] = 61
+C:threadnum: 2
+producer data[2] = 62
+P:hreadnum: 1
+
+consumer data[2] = 62
+C:threadnum: 2
+producer data[3] = 63
+P:hreadnum: 0
+
+consumer data[3] = 63
+C:threadnum: 3
+producer data[4] = 64
+P:hreadnum: 0
+
+consumer data[4] = 64
+C:threadnum: 2
+producer data[5] = 65
+P:hreadnum: 1
+
+consumer data[5] = 65
+C:threadnum: 2
+producer data[6] = 66
+P:hreadnum: 0
+
+consumer data[6] = 66
+C:threadnum: 2
+producer data[7] = 67
+P:hreadnum: 1
+
+consumer data[7] = 67
+C:threadnum: 3
+producer data[8] = 68
+P:hreadnum: 1
+
+consumer data[8] = 68
+C:threadnum: 2
+producer data[9] = 69
+P:hreadnum: 0
+
+consumer data[9] = 69
+C:threadnum: 2
+producer data[0] = 70
+P:hreadnum: 1
+
+consumer data[0] = 70
+C:threadnum: 2
+producer data[1] = 71
+P:hreadnum: 0
+
+consumer data[1] = 71
+C:threadnum: 2
+producer data[2] = 72
+P:hreadnum: 0
+
+consumer data[2] = 72
+C:threadnum: 2
+producer data[3] = 73
+P:hreadnum: 0
+
+consumer data[3] = 73
+C:threadnum: 2
+producer data[4] = 74
+P:hreadnum: 1
+
+consumer data[4] = 74
+C:threadnum: 2
+producer data[5] = 75
+P:hreadnum: 0
+
+consumer data[5] = 75
+C:threadnum: 3
+producer data[6] = 76
+P:hreadnum: 0
+
+consumer data[6] = 76
+C:threadnum: 2
+producer data[7] = 77
+P:hreadnum: 1
+
+consumer data[7] = 77
+C:threadnum: 2
+producer data[8] = 78
+P:hreadnum: 0
+
+consumer data[8] = 78
+C:threadnum: 2
+producer data[9] = 79
+P:hreadnum: 1
+
+consumer data[9] = 79
+C:threadnum: 2
+producer data[0] = 80
+P:hreadnum: 1
+
+consumer data[0] = 80
+C:threadnum: 3
+producer data[1] = 81
+P:hreadnum: 0
+
+consumer data[1] = 81
+C:threadnum: 3
+producer data[2] = 82
+P:hreadnum: 0
+
+consumer data[2] = 82
+C:threadnum: 2
+producer data[3] = 83
+P:hreadnum: 0
+
+consumer data[3] = 83
+C:threadnum: 2
+producer data[4] = 84
+P:hreadnum: 1
+
+consumer data[4] = 84
+C:threadnum: 2
+producer data[5] = 85
+P:hreadnum: 1
+
+consumer data[5] = 85
+C:threadnum: 2
+producer data[6] = 86
+P:hreadnum: 1
+
+consumer data[6] = 86
+C:threadnum: 2
+producer data[7] = 87
+P:hreadnum: 0
+
+consumer data[7] = 87
+C:threadnum: 2
+producer data[8] = 88
+P:hreadnum: 1
+
+consumer data[8] = 88
+C:threadnum: 2
+producer data[9] = 89
+P:hreadnum: 1
+
+consumer data[9] = 89
+C:threadnum: 2
+producer data[0] = 90
+P:hreadnum: 1
+
+consumer data[0] = 90
+C:threadnum: 2
+producer data[1] = 91
+P:hreadnum: 0
+
+consumer data[1] = 91
+C:threadnum: 2
+producer data[2] = 92
+P:hreadnum: 1
+
+consumer data[2] = 92
+C:threadnum: 3
+producer data[3] = 93
+P:hreadnum: 1
+
+consumer data[3] = 93
+C:threadnum: 2
+producer data[4] = 94
+P:hreadnum: 0
+
+consumer data[4] = 94
+C:threadnum: 2
+producer data[5] = 95
+P:hreadnum: 1
+
+consumer data[5] = 95
+C:threadnum: 2
+producer data[6] = 96
+P:hreadnum: 0
+
+consumer data[6] = 96
+C:threadnum: 3
+producer data[7] = 97
+P:hreadnum: 0
+
+consumer data[7] = 97
+C:threadnum: 2
+producer data[8] = 98
+P:hreadnum: 1
+
+consumer data[8] = 98
+C:threadnum: 2
+producer data[9] = 99
+P:hreadnum: 1
+
+consumer data[9] = 99
+C:threadnum: 3
+consumer 3 exiting
+consumer 2 exiting
+producer 0 exiting
+producer 1 exiting
+--- Running again ---
+ 
+I am the producer and my thread number is 0 
+producer data[0] = 0
+P:hreadnum: 0
+
+I am the producer and my thread number is 1 
+I am the consumer and my thread number is 2 
+consumer data[0] = 0
+C:threadnum: 2
+producer data[1] = 1
+P:hreadnum: 0
+
+I am the consumer and my thread number is 3 
+consumer data[1] = 1
+C:threadnum: 3
+producer data[2] = 2
+P:hreadnum: 1
+
+consumer data[2] = 2
+C:threadnum: 3
+producer data[3] = 3
+P:hreadnum: 1
+
+consumer data[3] = 3
+C:threadnum: 2
+producer data[4] = 4
+P:hreadnum: 0
+
+consumer data[4] = 4
+C:threadnum: 2
+producer data[5] = 5
+P:hreadnum: 0
+
+consumer data[5] = 5
+C:threadnum: 3
+producer data[6] = 6
+P:hreadnum: 1
+
+consumer data[6] = 6
+C:threadnum: 2
+producer data[7] = 7
+P:hreadnum: 0
+
+consumer data[7] = 7
+C:threadnum: 2
+producer data[8] = 8
+P:hreadnum: 0
+
+consumer data[8] = 8
+C:threadnum: 2
+producer data[9] = 9
+P:hreadnum: 0
+
+consumer data[9] = 9
+C:threadnum: 3
+producer data[0] = 10
+P:hreadnum: 1
+
+consumer data[0] = 10
+C:threadnum: 2
+producer data[1] = 11
+P:hreadnum: 1
+
+consumer data[1] = 11
+C:threadnum: 2
+producer data[2] = 12
+P:hreadnum: 1
+
+consumer data[2] = 12
+C:threadnum: 2
+producer data[3] = 13
+P:hreadnum: 1
+
+consumer data[3] = 13
+C:threadnum: 3
+producer data[4] = 14
+P:hreadnum: 1
+
+consumer data[4] = 14
+C:threadnum: 3
+producer data[5] = 15
+P:hreadnum: 1
+
+consumer data[5] = 15
+C:threadnum: 2
+producer data[6] = 16
+P:hreadnum: 1
+
+consumer data[6] = 16
+C:threadnum: 2
+producer data[7] = 17
+P:hreadnum: 0
+
+consumer data[7] = 17
+C:threadnum: 2
+producer data[8] = 18
+P:hreadnum: 1
+
+consumer data[8] = 18
+C:threadnum: 2
+producer data[9] = 19
+P:hreadnum: 1
+
+consumer data[9] = 19
+C:threadnum: 2
+producer data[0] = 20
+P:hreadnum: 1
+
+consumer data[0] = 20
+C:threadnum: 2
+producer data[1] = 21
+P:hreadnum: 1
+
+consumer data[1] = 21
+C:threadnum: 3
+producer data[2] = 22
+P:hreadnum: 1
+
+consumer data[2] = 22
+C:threadnum: 3
+producer data[3] = 23
+P:hreadnum: 1
+
+consumer data[3] = 23
+C:threadnum: 2
+producer data[4] = 24
+P:hreadnum: 1
+
+consumer data[4] = 24
+C:threadnum: 2
+producer data[5] = 25
+P:hreadnum: 0
+
+consumer data[5] = 25
+C:threadnum: 3
+producer data[6] = 26
+P:hreadnum: 0
+
+consumer data[6] = 26
+C:threadnum: 3
+producer data[7] = 27
+P:hreadnum: 1
+
+consumer data[7] = 27
+C:threadnum: 3
+producer data[8] = 28
+P:hreadnum: 1
+
+consumer data[8] = 28
+C:threadnum: 3
+producer data[9] = 29
+P:hreadnum: 1
+
+consumer data[9] = 29
+C:threadnum: 3
+producer data[0] = 30
+P:hreadnum: 0
+
+consumer data[0] = 30
+C:threadnum: 3
+producer data[1] = 31
+P:hreadnum: 0
+
+consumer data[1] = 31
+C:threadnum: 3
+producer data[2] = 32
+P:hreadnum: 1
+
+consumer data[2] = 32
+C:threadnum: 3
+producer data[3] = 33
+P:hreadnum: 1
+
+consumer data[3] = 33
+C:threadnum: 3
+producer data[4] = 34
+P:hreadnum: 1
+
+consumer data[4] = 34
+C:threadnum: 3
+producer data[5] = 35
+P:hreadnum: 1
+
+consumer data[5] = 35
+C:threadnum: 2
+producer data[6] = 36
+P:hreadnum: 1
+
+consumer data[6] = 36
+C:threadnum: 3
+producer data[7] = 37
+P:hreadnum: 0
+
+consumer data[7] = 37
+C:threadnum: 3
+producer data[8] = 38
+P:hreadnum: 1
+
+consumer data[8] = 38
+C:threadnum: 2
+producer data[9] = 39
+P:hreadnum: 1
+
+consumer data[9] = 39
+C:threadnum: 2
+producer data[0] = 40
+P:hreadnum: 1
+
+consumer data[0] = 40
+C:threadnum: 3
+producer data[1] = 41
+P:hreadnum: 1
+
+consumer data[1] = 41
+C:threadnum: 3
+producer data[2] = 42
+P:hreadnum: 0
+
+consumer data[2] = 42
+C:threadnum: 3
+producer data[3] = 43
+P:hreadnum: 1
+
+consumer data[3] = 43
+C:threadnum: 3
+producer data[4] = 44
+P:hreadnum: 1
+
+consumer data[4] = 44
+C:threadnum: 2
+producer data[5] = 45
+P:hreadnum: 1
+
+consumer data[5] = 45
+C:threadnum: 3
+producer data[6] = 46
+P:hreadnum: 1
+
+consumer data[6] = 46
+C:threadnum: 3
+producer data[7] = 47
+P:hreadnum: 0
+
+consumer data[7] = 47
+C:threadnum: 2
+producer data[8] = 48
+P:hreadnum: 0
+
+consumer data[8] = 48
+C:threadnum: 2
+producer data[9] = 49
+P:hreadnum: 1
+
+consumer data[9] = 49
+C:threadnum: 3
+producer data[0] = 50
+P:hreadnum: 1
+
+consumer data[0] = 50
+C:threadnum: 3
+producer data[1] = 51
+P:hreadnum: 1
+
+consumer data[1] = 51
+C:threadnum: 2
+producer data[2] = 52
+P:hreadnum: 1
+
+consumer data[2] = 52
+C:threadnum: 3
+producer data[3] = 53
+P:hreadnum: 1
+
+consumer data[3] = 53
+C:threadnum: 3
+producer data[4] = 54
+P:hreadnum: 1
+
+consumer data[4] = 54
+C:threadnum: 3
+producer data[5] = 55
+P:hreadnum: 0
+
+consumer data[5] = 55
+C:threadnum: 3
+producer data[6] = 56
+P:hreadnum: 0
+
+consumer data[6] = 56
+C:threadnum: 3
+producer data[7] = 57
+P:hreadnum: 0
+
+consumer data[7] = 57
+C:threadnum: 3
+producer data[8] = 58
+P:hreadnum: 0
+
+consumer data[8] = 58
+C:threadnum: 3
+producer data[9] = 59
+P:hreadnum: 1
+
+consumer data[9] = 59
+C:threadnum: 3
+producer data[0] = 60
+P:hreadnum: 0
+
+consumer data[0] = 60
+C:threadnum: 3
+producer data[1] = 61
+P:hreadnum: 0
+
+consumer data[1] = 61
+C:threadnum: 2
+producer data[2] = 62
+P:hreadnum: 0
+
+consumer data[2] = 62
+C:threadnum: 2
+producer data[3] = 63
+P:hreadnum: 0
+
+consumer data[3] = 63
+C:threadnum: 2
+producer data[4] = 64
+P:hreadnum: 1
+
+consumer data[4] = 64
+C:threadnum: 3
+producer data[5] = 65
+P:hreadnum: 1
+
+consumer data[5] = 65
+C:threadnum: 3
+producer data[6] = 66
+P:hreadnum: 1
+
+consumer data[6] = 66
+C:threadnum: 3
+producer data[7] = 67
+P:hreadnum: 0
+
+consumer data[7] = 67
+C:threadnum: 3
+producer data[8] = 68
+P:hreadnum: 1
+
+consumer data[8] = 68
+C:threadnum: 3
+producer data[9] = 69
+P:hreadnum: 0
+
+consumer data[9] = 69
+C:threadnum: 3
+producer data[0] = 70
+P:hreadnum: 0
+
+consumer data[0] = 70
+C:threadnum: 3
+producer data[1] = 71
+P:hreadnum: 0
+
+consumer data[1] = 71
+C:threadnum: 3
+producer data[2] = 72
+P:hreadnum: 1
+
+consumer data[2] = 72
+C:threadnum: 3
+producer data[3] = 73
+P:hreadnum: 1
+
+consumer data[3] = 73
+C:threadnum: 2
+producer data[4] = 74
+P:hreadnum: 1
+
+consumer data[4] = 74
+C:threadnum: 2
+producer data[5] = 75
+P:hreadnum: 1
+
+consumer data[5] = 75
+C:threadnum: 3
+producer data[6] = 76
+P:hreadnum: 0
+
+consumer data[6] = 76
+C:threadnum: 3
+producer data[7] = 77
+P:hreadnum: 0
+
+consumer data[7] = 77
+C:threadnum: 3
+producer data[8] = 78
+P:hreadnum: 1
+
+consumer data[8] = 78
+C:threadnum: 3
+producer data[9] = 79
+P:hreadnum: 1
+
+consumer data[9] = 79
+C:threadnum: 3
+producer data[0] = 80
+P:hreadnum: 0
+
+consumer data[0] = 80
+C:threadnum: 3
+producer data[1] = 81
+P:hreadnum: 0
+
+consumer data[1] = 81
+C:threadnum: 3
+producer data[2] = 82
+P:hreadnum: 1
+
+consumer data[2] = 82
+C:threadnum: 2
+producer data[3] = 83
+P:hreadnum: 1
+
+consumer data[3] = 83
+C:threadnum: 2
+producer data[4] = 84
+P:hreadnum: 1
+
+consumer data[4] = 84
+C:threadnum: 2
+producer data[5] = 85
+P:hreadnum: 1
+
+consumer data[5] = 85
+C:threadnum: 3
+producer data[6] = 86
+P:hreadnum: 1
+
+consumer data[6] = 86
+C:threadnum: 3
+producer data[7] = 87
+P:hreadnum: 1
+
+consumer data[7] = 87
+C:threadnum: 3
+producer data[8] = 88
+P:hreadnum: 0
+
+consumer data[8] = 88
+C:threadnum: 3
+producer data[9] = 89
+P:hreadnum: 1
+
+consumer data[9] = 89
+C:threadnum: 2
+producer data[0] = 90
+P:hreadnum: 1
+
+consumer data[0] = 90
+C:threadnum: 2
+producer data[1] = 91
+P:hreadnum: 1
+
+consumer data[1] = 91
+C:threadnum: 2
+producer data[2] = 92
+P:hreadnum: 0
+
+consumer data[2] = 92
+C:threadnum: 2
+producer data[3] = 93
+P:hreadnum: 0
+
+consumer data[3] = 93
+C:threadnum: 3
+producer data[4] = 94
+P:hreadnum: 0
+
+consumer data[4] = 94
+C:threadnum: 3
+producer data[5] = 95
+P:hreadnum: 1
+
+consumer data[5] = 95
+C:threadnum: 2
+producer data[6] = 96
+P:hreadnum: 1
+
+consumer data[6] = 96
+C:threadnum: 3
+producer data[7] = 97
+P:hreadnum: 1
+
+consumer data[7] = 97
+C:threadnum: 2
+producer data[8] = 98
+P:hreadnum: 1
+
+consumer data[8] = 98
+C:threadnum: 2
+producer data[9] = 99
+P:hreadnum: 1
+
+consumer data[9] = 99
+C:threadnum: 2
+producer 0 exiting
+consumer 2 exiting
+producer 1 exiting
+consumer 3 exiting
+--- Running again ---
+ 
+I am the producer and my thread number is 0 
+I am the producer and my thread number is 1 
+I am the consumer and my thread number is 2 
+producer data[0] = 0
+P:hreadnum: 0
+
+I am the consumer and my thread number is 3 
+consumer data[0] = 0
+C:threadnum: 3
+producer data[1] = 1
+P:hreadnum: 0
+
+consumer data[1] = 1
+C:threadnum: 3
+producer data[2] = 2
+P:hreadnum: 1
+
+consumer data[2] = 2
+C:threadnum: 3
+producer data[3] = 3
+P:hreadnum: 1
+
+consumer data[3] = 3
+C:threadnum: 3
+producer data[4] = 4
+P:hreadnum: 1
+
+consumer data[4] = 4
+C:threadnum: 3
+producer data[5] = 5
+P:hreadnum: 1
+
+consumer data[5] = 5
+C:threadnum: 3
+producer data[6] = 6
+P:hreadnum: 1
+
+consumer data[6] = 6
+C:threadnum: 3
+producer data[7] = 7
+P:hreadnum: 1
+
+consumer data[7] = 7
+C:threadnum: 3
+producer data[8] = 8
+P:hreadnum: 1
+
+consumer data[8] = 8
+C:threadnum: 3
+producer data[9] = 9
+P:hreadnum: 1
+
+consumer data[9] = 9
+C:threadnum: 3
+producer data[0] = 10
+P:hreadnum: 0
+
+consumer data[0] = 10
+C:threadnum: 3
+producer data[1] = 11
+P:hreadnum: 0
+
+consumer data[1] = 11
+C:threadnum: 2
+producer data[2] = 12
+P:hreadnum: 0
+
+consumer data[2] = 12
+C:threadnum: 3
+producer data[3] = 13
+P:hreadnum: 0
+
+consumer data[3] = 13
+C:threadnum: 3
+producer data[4] = 14
+P:hreadnum: 0
+
+consumer data[4] = 14
+C:threadnum: 2
+producer data[5] = 15
+P:hreadnum: 0
+
+consumer data[5] = 15
+C:threadnum: 3
+producer data[6] = 16
+P:hreadnum: 0
+
+consumer data[6] = 16
+C:threadnum: 3
+producer data[7] = 17
+P:hreadnum: 1
+
+consumer data[7] = 17
+C:threadnum: 3
+producer data[8] = 18
+P:hreadnum: 0
+
+consumer data[8] = 18
+C:threadnum: 2
+producer data[9] = 19
+P:hreadnum: 0
+
+consumer data[9] = 19
+C:threadnum: 2
+producer data[0] = 20
+P:hreadnum: 0
+
+consumer data[0] = 20
+C:threadnum: 2
+producer data[1] = 21
+P:hreadnum: 0
+
+consumer data[1] = 21
+C:threadnum: 3
+producer data[2] = 22
+P:hreadnum: 1
+
+consumer data[2] = 22
+C:threadnum: 3
+producer data[3] = 23
+P:hreadnum: 0
+
+consumer data[3] = 23
+C:threadnum: 2
+producer data[4] = 24
+P:hreadnum: 0
+
+consumer data[4] = 24
+C:threadnum: 3
+producer data[5] = 25
+P:hreadnum: 1
+
+consumer data[5] = 25
+C:threadnum: 3
+producer data[6] = 26
+P:hreadnum: 0
+
+consumer data[6] = 26
+C:threadnum: 3
+producer data[7] = 27
+P:hreadnum: 0
+
+consumer data[7] = 27
+C:threadnum: 3
+producer data[8] = 28
+P:hreadnum: 0
+
+consumer data[8] = 28
+C:threadnum: 2
+producer data[9] = 29
+P:hreadnum: 0
+
+consumer data[9] = 29
+C:threadnum: 2
+producer data[0] = 30
+P:hreadnum: 0
+
+consumer data[0] = 30
+C:threadnum: 3
+producer data[1] = 31
+P:hreadnum: 0
+
+consumer data[1] = 31
+C:threadnum: 3
+producer data[2] = 32
+P:hreadnum: 0
+
+consumer data[2] = 32
+C:threadnum: 3
+producer data[3] = 33
+P:hreadnum: 1
+
+consumer data[3] = 33
+C:threadnum: 2
+producer data[4] = 34
+P:hreadnum: 1
+
+consumer data[4] = 34
+C:threadnum: 3
+producer data[5] = 35
+P:hreadnum: 0
+
+consumer data[5] = 35
+C:threadnum: 2
+producer data[6] = 36
+P:hreadnum: 0
+
+consumer data[6] = 36
+C:threadnum: 3
+producer data[7] = 37
+P:hreadnum: 0
+
+consumer data[7] = 37
+C:threadnum: 2
+producer data[8] = 38
+P:hreadnum: 0
+
+consumer data[8] = 38
+C:threadnum: 3
+producer data[9] = 39
+P:hreadnum: 0
+
+consumer data[9] = 39
+C:threadnum: 3
+producer data[0] = 40
+P:hreadnum: 0
+
+consumer data[0] = 40
+C:threadnum: 3
+producer data[1] = 41
+P:hreadnum: 0
+
+consumer data[1] = 41
+C:threadnum: 2
+producer data[2] = 42
+P:hreadnum: 1
+
+consumer data[2] = 42
+C:threadnum: 3
+producer data[3] = 43
+P:hreadnum: 0
+
+consumer data[3] = 43
+C:threadnum: 3
+producer data[4] = 44
+P:hreadnum: 1
+
+consumer data[4] = 44
+C:threadnum: 3
+producer data[5] = 45
+P:hreadnum: 1
+
+consumer data[5] = 45
+C:threadnum: 3
+producer data[6] = 46
+P:hreadnum: 0
+
+consumer data[6] = 46
+C:threadnum: 3
+producer data[7] = 47
+P:hreadnum: 0
+
+consumer data[7] = 47
+C:threadnum: 2
+producer data[8] = 48
+P:hreadnum: 0
+
+consumer data[8] = 48
+C:threadnum: 3
+producer data[9] = 49
+P:hreadnum: 1
+
+consumer data[9] = 49
+C:threadnum: 3
+producer data[0] = 50
+P:hreadnum: 0
+
+consumer data[0] = 50
+C:threadnum: 2
+producer data[1] = 51
+P:hreadnum: 0
+
+consumer data[1] = 51
+C:threadnum: 3
+producer data[2] = 52
+P:hreadnum: 0
+
+consumer data[2] = 52
+C:threadnum: 3
+producer data[3] = 53
+P:hreadnum: 0
+
+consumer data[3] = 53
+C:threadnum: 3
+producer data[4] = 54
+P:hreadnum: 0
+
+consumer data[4] = 54
+C:threadnum: 3
+producer data[5] = 55
+P:hreadnum: 0
+
+consumer data[5] = 55
+C:threadnum: 3
+producer data[6] = 56
+P:hreadnum: 1
+
+consumer data[6] = 56
+C:threadnum: 3
+producer data[7] = 57
+P:hreadnum: 1
+
+consumer data[7] = 57
+C:threadnum: 3
+producer data[8] = 58
+P:hreadnum: 1
+
+consumer data[8] = 58
+C:threadnum: 2
+producer data[9] = 59
+P:hreadnum: 1
+
+consumer data[9] = 59
+C:threadnum: 2
+producer data[0] = 60
+P:hreadnum: 1
+
+consumer data[0] = 60
+C:threadnum: 2
+producer data[1] = 61
+P:hreadnum: 1
+
+consumer data[1] = 61
+C:threadnum: 3
+producer data[2] = 62
+P:hreadnum: 1
+
+consumer data[2] = 62
+C:threadnum: 2
+producer data[3] = 63
+P:hreadnum: 0
+
+consumer data[3] = 63
+C:threadnum: 3
+producer data[4] = 64
+P:hreadnum: 1
+
+consumer data[4] = 64
+C:threadnum: 2
+producer data[5] = 65
+P:hreadnum: 1
+
+consumer data[5] = 65
+C:threadnum: 3
+producer data[6] = 66
+P:hreadnum: 0
+
+consumer data[6] = 66
+C:threadnum: 2
+producer data[7] = 67
+P:hreadnum: 0
+
+consumer data[7] = 67
+C:threadnum: 2
+producer data[8] = 68
+P:hreadnum: 0
+
+consumer data[8] = 68
+C:threadnum: 3
+producer data[9] = 69
+P:hreadnum: 1
+
+consumer data[9] = 69
+C:threadnum: 2
+producer data[0] = 70
+P:hreadnum: 1
+
+consumer data[0] = 70
+C:threadnum: 2
+producer data[1] = 71
+P:hreadnum: 0
+
+consumer data[1] = 71
+C:threadnum: 2
+producer data[2] = 72
+P:hreadnum: 0
+
+consumer data[2] = 72
+C:threadnum: 3
+producer data[3] = 73
+P:hreadnum: 1
+
+consumer data[3] = 73
+C:threadnum: 3
+producer data[4] = 74
+P:hreadnum: 0
+
+consumer data[4] = 74
+C:threadnum: 3
+producer data[5] = 75
+P:hreadnum: 1
+
+consumer data[5] = 75
+C:threadnum: 3
+producer data[6] = 76
+P:hreadnum: 1
+
+consumer data[6] = 76
+C:threadnum: 2
+producer data[7] = 77
+P:hreadnum: 0
+
+consumer data[7] = 77
+C:threadnum: 3
+producer data[8] = 78
+P:hreadnum: 0
+
+consumer data[8] = 78
+C:threadnum: 3
+producer data[9] = 79
+P:hreadnum: 0
+
+consumer data[9] = 79
+C:threadnum: 3
+producer data[0] = 80
+P:hreadnum: 1
+
+consumer data[0] = 80
+C:threadnum: 2
+producer data[1] = 81
+P:hreadnum: 1
+
+consumer data[1] = 81
+C:threadnum: 3
+producer data[2] = 82
+P:hreadnum: 1
+
+consumer data[2] = 82
+C:threadnum: 3
+producer data[3] = 83
+P:hreadnum: 0
+
+consumer data[3] = 83
+C:threadnum: 3
+producer data[4] = 84
+P:hreadnum: 0
+
+consumer data[4] = 84
+C:threadnum: 3
+producer data[5] = 85
+P:hreadnum: 1
+
+consumer data[5] = 85
+C:threadnum: 3
+producer data[6] = 86
+P:hreadnum: 1
+
+consumer data[6] = 86
+C:threadnum: 3
+producer data[7] = 87
+P:hreadnum: 1
+
+consumer data[7] = 87
+C:threadnum: 3
+producer data[8] = 88
+P:hreadnum: 0
+
+consumer data[8] = 88
+C:threadnum: 3
+producer data[9] = 89
+P:hreadnum: 1
+
+consumer data[9] = 89
+C:threadnum: 2
+producer data[0] = 90
+P:hreadnum: 1
+
+consumer data[0] = 90
+C:threadnum: 3
+producer data[1] = 91
+P:hreadnum: 0
+
+consumer data[1] = 91
+C:threadnum: 2
+producer data[2] = 92
+P:hreadnum: 0
+
+consumer data[2] = 92
+C:threadnum: 3
+producer data[3] = 93
+P:hreadnum: 1
+
+consumer data[3] = 93
+C:threadnum: 3
+producer data[4] = 94
+P:hreadnum: 0
+
+consumer data[4] = 94
+C:threadnum: 2
+producer data[5] = 95
+P:hreadnum: 0
+
+consumer data[5] = 95
+C:threadnum: 3
+producer data[6] = 96
+P:hreadnum: 1
+
+consumer data[6] = 96
+C:threadnum: 3
+producer data[7] = 97
+P:hreadnum: 0
+
+consumer data[7] = 97
+C:threadnum: 3
+producer data[8] = 98
+P:hreadnum: 1
+
+consumer data[8] = 98
+C:threadnum: 3
+producer data[9] = 99
+P:hreadnum: 1
+
+consumer data[9] = 99
+C:threadnum: 3
+producer 1 exiting
+consumer 3 exiting
+producer 0 exiting
+consumer 2 exiting
+--- Running again ---
+ 
+I am the producer and my thread number is 0 
+I am the producer and my thread number is 1 
+I am the consumer and my thread number is 2 
+producer data[0] = 0
+P:hreadnum: 0
+
+consumer data[0] = 0
+C:threadnum: 2
+producer data[1] = 1
+P:hreadnum: 0
+
+consumer data[1] = 1
+C:threadnum: 2
+I am the consumer and my thread number is 3 
+producer data[2] = 2
+P:hreadnum: 0
+
+consumer data[2] = 2
+C:threadnum: 2
+producer data[3] = 3
+P:hreadnum: 0
+
+consumer data[3] = 3
+C:threadnum: 2
+producer data[4] = 4
+P:hreadnum: 1
+
+consumer data[4] = 4
+C:threadnum: 2
+producer data[5] = 5
+P:hreadnum: 1
+
+consumer data[5] = 5
+C:threadnum: 2
+producer data[6] = 6
+P:hreadnum: 1
+
+consumer data[6] = 6
+C:threadnum: 3
+producer data[7] = 7
+P:hreadnum: 0
+
+consumer data[7] = 7
+C:threadnum: 2
+producer data[8] = 8
+P:hreadnum: 0
+
+consumer data[8] = 8
+C:threadnum: 2
+producer data[9] = 9
+P:hreadnum: 0
+
+consumer data[9] = 9
+C:threadnum: 2
+producer data[0] = 10
+P:hreadnum: 0
+
+consumer data[0] = 10
+C:threadnum: 2
+producer data[1] = 11
+P:hreadnum: 1
+
+consumer data[1] = 11
+C:threadnum: 2
+producer data[2] = 12
+P:hreadnum: 0
+
+consumer data[2] = 12
+C:threadnum: 2
+producer data[3] = 13
+P:hreadnum: 0
+
+consumer data[3] = 13
+C:threadnum: 2
+producer data[4] = 14
+P:hreadnum: 1
+
+consumer data[4] = 14
+C:threadnum: 2
+producer data[5] = 15
+P:hreadnum: 0
+
+consumer data[5] = 15
+C:threadnum: 2
+producer data[6] = 16
+P:hreadnum: 0
+
+consumer data[6] = 16
+C:threadnum: 2
+producer data[7] = 17
+P:hreadnum: 0
+
+consumer data[7] = 17
+C:threadnum: 2
+producer data[8] = 18
+P:hreadnum: 0
+
+consumer data[8] = 18
+C:threadnum: 2
+producer data[9] = 19
+P:hreadnum: 1
+
+consumer data[9] = 19
+C:threadnum: 3
+producer data[0] = 20
+P:hreadnum: 1
+
+consumer data[0] = 20
+C:threadnum: 2
+producer data[1] = 21
+P:hreadnum: 0
+
+consumer data[1] = 21
+C:threadnum: 3
+producer data[2] = 22
+P:hreadnum: 0
+
+consumer data[2] = 22
+C:threadnum: 3
+producer data[3] = 23
+P:hreadnum: 1
+
+consumer data[3] = 23
+C:threadnum: 3
+producer data[4] = 24
+P:hreadnum: 0
+
+consumer data[4] = 24
+C:threadnum: 3
+producer data[5] = 25
+P:hreadnum: 0
+
+consumer data[5] = 25
+C:threadnum: 2
+producer data[6] = 26
+P:hreadnum: 1
+
+consumer data[6] = 26
+C:threadnum: 3
+producer data[7] = 27
+P:hreadnum: 1
+
+consumer data[7] = 27
+C:threadnum: 2
+producer data[8] = 28
+P:hreadnum: 1
+
+consumer data[8] = 28
+C:threadnum: 2
+producer data[9] = 29
+P:hreadnum: 1
+
+consumer data[9] = 29
+C:threadnum: 2
+producer data[0] = 30
+P:hreadnum: 0
+
+consumer data[0] = 30
+C:threadnum: 2
+producer data[1] = 31
+P:hreadnum: 0
+
+consumer data[1] = 31
+C:threadnum: 2
+producer data[2] = 32
+P:hreadnum: 0
+
+consumer data[2] = 32
+C:threadnum: 3
+producer data[3] = 33
+P:hreadnum: 0
+
+consumer data[3] = 33
+C:threadnum: 2
+producer data[4] = 34
+P:hreadnum: 0
+
+consumer data[4] = 34
+C:threadnum: 2
+producer data[5] = 35
+P:hreadnum: 0
+
+consumer data[5] = 35
+C:threadnum: 2
+producer data[6] = 36
+P:hreadnum: 0
+
+consumer data[6] = 36
+C:threadnum: 2
+producer data[7] = 37
+P:hreadnum: 1
+
+consumer data[7] = 37
+C:threadnum: 2
+producer data[8] = 38
+P:hreadnum: 1
+
+consumer data[8] = 38
+C:threadnum: 2
+producer data[9] = 39
+P:hreadnum: 1
+
+consumer data[9] = 39
+C:threadnum: 2
+producer data[0] = 40
+P:hreadnum: 0
+
+consumer data[0] = 40
+C:threadnum: 2
+producer data[1] = 41
+P:hreadnum: 1
+
+consumer data[1] = 41
+C:threadnum: 2
+producer data[2] = 42
+P:hreadnum: 1
+
+consumer data[2] = 42
+C:threadnum: 2
+producer data[3] = 43
+P:hreadnum: 1
+
+consumer data[3] = 43
+C:threadnum: 3
+producer data[4] = 44
+P:hreadnum: 1
+
+consumer data[4] = 44
+C:threadnum: 3
+producer data[5] = 45
+P:hreadnum: 0
+
+consumer data[5] = 45
+C:threadnum: 3
+producer data[6] = 46
+P:hreadnum: 0
+
+consumer data[6] = 46
+C:threadnum: 2
+producer data[7] = 47
+P:hreadnum: 1
+
+consumer data[7] = 47
+C:threadnum: 3
+producer data[8] = 48
+P:hreadnum: 1
+
+consumer data[8] = 48
+C:threadnum: 3
+producer data[9] = 49
+P:hreadnum: 1
+
+consumer data[9] = 49
+C:threadnum: 2
+producer data[0] = 50
+P:hreadnum: 1
+
+consumer data[0] = 50
+C:threadnum: 3
+producer data[1] = 51
+P:hreadnum: 1
+
+consumer data[1] = 51
+C:threadnum: 2
+producer data[2] = 52
+P:hreadnum: 0
+
+consumer data[2] = 52
+C:threadnum: 3
+producer data[3] = 53
+P:hreadnum: 0
+
+consumer data[3] = 53
+C:threadnum: 2
+producer data[4] = 54
+P:hreadnum: 1
+
+consumer data[4] = 54
+C:threadnum: 3
+producer data[5] = 55
+P:hreadnum: 1
+
+consumer data[5] = 55
+C:threadnum: 3
+producer data[6] = 56
+P:hreadnum: 1
+
+consumer data[6] = 56
+C:threadnum: 2
+producer data[7] = 57
+P:hreadnum: 1
+
+consumer data[7] = 57
+C:threadnum: 2
+producer data[8] = 58
+P:hreadnum: 1
+
+consumer data[8] = 58
+C:threadnum: 2
+producer data[9] = 59
+P:hreadnum: 1
+
+consumer data[9] = 59
+C:threadnum: 3
+producer data[0] = 60
+P:hreadnum: 1
+
+consumer data[0] = 60
+C:threadnum: 3
+producer data[1] = 61
+P:hreadnum: 1
+
+consumer data[1] = 61
+C:threadnum: 2
+producer data[2] = 62
+P:hreadnum: 0
+
+consumer data[2] = 62
+C:threadnum: 3
+producer data[3] = 63
+P:hreadnum: 0
+
+consumer data[3] = 63
+C:threadnum: 3
+producer data[4] = 64
+P:hreadnum: 1
+
+consumer data[4] = 64
+C:threadnum: 3
+producer data[5] = 65
+P:hreadnum: 1
+
+consumer data[5] = 65
+C:threadnum: 3
+producer data[6] = 66
+P:hreadnum: 1
+
+consumer data[6] = 66
+C:threadnum: 2
+producer data[7] = 67
+P:hreadnum: 0
+
+consumer data[7] = 67
+C:threadnum: 3
+producer data[8] = 68
+P:hreadnum: 0
+
+consumer data[8] = 68
+C:threadnum: 2
+producer data[9] = 69
+P:hreadnum: 1
+
+consumer data[9] = 69
+C:threadnum: 3
+producer data[0] = 70
+P:hreadnum: 1
+
+consumer data[0] = 70
+C:threadnum: 3
+producer data[1] = 71
+P:hreadnum: 1
+
+consumer data[1] = 71
+C:threadnum: 2
+producer data[2] = 72
+P:hreadnum: 0
+
+consumer data[2] = 72
+C:threadnum: 3
+producer data[3] = 73
+P:hreadnum: 0
+
+consumer data[3] = 73
+C:threadnum: 3
+producer data[4] = 74
+P:hreadnum: 1
+
+consumer data[4] = 74
+C:threadnum: 3
+producer data[5] = 75
+P:hreadnum: 1
+
+consumer data[5] = 75
+C:threadnum: 3
+producer data[6] = 76
+P:hreadnum: 1
+
+consumer data[6] = 76
+C:threadnum: 2
+producer data[7] = 77
+P:hreadnum: 0
+
+consumer data[7] = 77
+C:threadnum: 3
+producer data[8] = 78
+P:hreadnum: 0
+
+consumer data[8] = 78
+C:threadnum: 2
+producer data[9] = 79
+P:hreadnum: 1
+
+consumer data[9] = 79
+C:threadnum: 2
+producer data[0] = 80
+P:hreadnum: 1
+
+consumer data[0] = 80
+C:threadnum: 3
+producer data[1] = 81
+P:hreadnum: 1
+
+consumer data[1] = 81
+C:threadnum: 3
+producer data[2] = 82
+P:hreadnum: 1
+
+consumer data[2] = 82
+C:threadnum: 2
+producer data[3] = 83
+P:hreadnum: 1
+
+consumer data[3] = 83
+C:threadnum: 3
+producer data[4] = 84
+P:hreadnum: 1
+
+consumer data[4] = 84
+C:threadnum: 2
+producer data[5] = 85
+P:hreadnum: 0
+
+consumer data[5] = 85
+C:threadnum: 2
+producer data[6] = 86
+P:hreadnum: 0
+
+consumer data[6] = 86
+C:threadnum: 2
+producer data[7] = 87
+P:hreadnum: 0
+
+consumer data[7] = 87
+C:threadnum: 2
+producer data[8] = 88
+P:hreadnum: 1
+
+consumer data[8] = 88
+C:threadnum: 2
+producer data[9] = 89
+P:hreadnum: 1
+
+consumer data[9] = 89
+C:threadnum: 2
+producer data[0] = 90
+P:hreadnum: 1
+
+consumer data[0] = 90
+C:threadnum: 3
+producer data[1] = 91
+P:hreadnum: 0
+
+consumer data[1] = 91
+C:threadnum: 2
+producer data[2] = 92
+P:hreadnum: 0
+
+consumer data[2] = 92
+C:threadnum: 2
+producer data[3] = 93
+P:hreadnum: 0
+
+consumer data[3] = 93
+C:threadnum: 2
+producer data[4] = 94
+P:hreadnum: 0
+
+consumer data[4] = 94
+C:threadnum: 2
+producer data[5] = 95
+P:hreadnum: 1
+
+consumer data[5] = 95
+C:threadnum: 3
+producer data[6] = 96
+P:hreadnum: 1
+
+consumer data[6] = 96
+C:threadnum: 3
+producer data[7] = 97
+P:hreadnum: 0
+
+consumer data[7] = 97
+C:threadnum: 3
+producer data[8] = 98
+P:hreadnum: 1
+
+consumer data[8] = 98
+C:threadnum: 3
+producer data[9] = 99
+P:hreadnum: 1
+
+consumer data[9] = 99
+C:threadnum: 2
+consumer 3 exiting
+producer 0 exiting
+consumer 2 exiting
+producer 1 exiting
+--- Running again ---
+ 
+I am the producer and my thread number is 0 
+producer data[0] = 0
+P:hreadnum: 0
+
+I am the producer and my thread number is 1 
+I am the consumer and my thread number is 2 
+consumer data[0] = 0
+C:threadnum: 2
+producer data[1] = 1
+P:hreadnum: 1
+
+consumer data[1] = 1
+C:threadnum: 2
+I am the consumer and my thread number is 3 
+producer data[2] = 2
+P:hreadnum: 1
+
+consumer data[2] = 2
+C:threadnum: 3
+producer data[3] = 3
+P:hreadnum: 0
+
+consumer data[3] = 3
+C:threadnum: 3
+producer data[4] = 4
+P:hreadnum: 1
+
+consumer data[4] = 4
+C:threadnum: 2
+producer data[5] = 5
+P:hreadnum: 0
+
+consumer data[5] = 5
+C:threadnum: 2
+producer data[6] = 6
+P:hreadnum: 1
+
+consumer data[6] = 6
+C:threadnum: 3
+producer data[7] = 7
+P:hreadnum: 1
+
+consumer data[7] = 7
+C:threadnum: 3
+producer data[8] = 8
+P:hreadnum: 1
+
+consumer data[8] = 8
+C:threadnum: 3
+producer data[9] = 9
+P:hreadnum: 1
+
+consumer data[9] = 9
+C:threadnum: 3
+producer data[0] = 10
+P:hreadnum: 1
+
+consumer data[0] = 10
+C:threadnum: 3
+producer data[1] = 11
+P:hreadnum: 0
+
+consumer data[1] = 11
+C:threadnum: 3
+producer data[2] = 12
+P:hreadnum: 1
+
+consumer data[2] = 12
+C:threadnum: 3
+producer data[3] = 13
+P:hreadnum: 1
+
+consumer data[3] = 13
+C:threadnum: 3
+producer data[4] = 14
+P:hreadnum: 1
+
+consumer data[4] = 14
+C:threadnum: 3
+producer data[5] = 15
+P:hreadnum: 0
+
+consumer data[5] = 15
+C:threadnum: 3
+producer data[6] = 16
+P:hreadnum: 0
+
+consumer data[6] = 16
+C:threadnum: 3
+producer data[7] = 17
+P:hreadnum: 0
+
+consumer data[7] = 17
+C:threadnum: 3
+producer data[8] = 18
+P:hreadnum: 1
+
+consumer data[8] = 18
+C:threadnum: 3
+producer data[9] = 19
+P:hreadnum: 1
+
+consumer data[9] = 19
+C:threadnum: 2
+producer data[0] = 20
+P:hreadnum: 0
+
+consumer data[0] = 20
+C:threadnum: 2
+producer data[1] = 21
+P:hreadnum: 0
+
+consumer data[1] = 21
+C:threadnum: 2
+producer data[2] = 22
+P:hreadnum: 1
+
+consumer data[2] = 22
+C:threadnum: 3
+producer data[3] = 23
+P:hreadnum: 0
+
+consumer data[3] = 23
+C:threadnum: 3
+producer data[4] = 24
+P:hreadnum: 0
+
+consumer data[4] = 24
+C:threadnum: 3
+producer data[5] = 25
+P:hreadnum: 0
+
+consumer data[5] = 25
+C:threadnum: 3
+producer data[6] = 26
+P:hreadnum: 1
+
+consumer data[6] = 26
+C:threadnum: 3
+producer data[7] = 27
+P:hreadnum: 1
+
+consumer data[7] = 27
+C:threadnum: 2
+producer data[8] = 28
+P:hreadnum: 1
+
+consumer data[8] = 28
+C:threadnum: 3
+producer data[9] = 29
+P:hreadnum: 0
+
+consumer data[9] = 29
+C:threadnum: 2
+producer data[0] = 30
+P:hreadnum: 1
+
+consumer data[0] = 30
+C:threadnum: 3
+producer data[1] = 31
+P:hreadnum: 0
+
+consumer data[1] = 31
+C:threadnum: 3
+producer data[2] = 32
+P:hreadnum: 1
+
+consumer data[2] = 32
+C:threadnum: 2
+producer data[3] = 33
+P:hreadnum: 0
+
+consumer data[3] = 33
+C:threadnum: 2
+producer data[4] = 34
+P:hreadnum: 0
+
+consumer data[4] = 34
+C:threadnum: 2
+producer data[5] = 35
+P:hreadnum: 1
+
+consumer data[5] = 35
+C:threadnum: 2
+producer data[6] = 36
+P:hreadnum: 1
+
+consumer data[6] = 36
+C:threadnum: 2
+producer data[7] = 37
+P:hreadnum: 1
+
+consumer data[7] = 37
+C:threadnum: 3
+producer data[8] = 38
+P:hreadnum: 0
+
+consumer data[8] = 38
+C:threadnum: 3
+producer data[9] = 39
+P:hreadnum: 1
+
+consumer data[9] = 39
+C:threadnum: 2
+producer data[0] = 40
+P:hreadnum: 1
+
+consumer data[0] = 40
+C:threadnum: 3
+producer data[1] = 41
+P:hreadnum: 1
+
+consumer data[1] = 41
+C:threadnum: 3
+producer data[2] = 42
+P:hreadnum: 1
+
+consumer data[2] = 42
+C:threadnum: 3
+producer data[3] = 43
+P:hreadnum: 0
+
+consumer data[3] = 43
+C:threadnum: 3
+producer data[4] = 44
+P:hreadnum: 1
+
+consumer data[4] = 44
+C:threadnum: 3
+producer data[5] = 45
+P:hreadnum: 1
+
+consumer data[5] = 45
+C:threadnum: 3
+producer data[6] = 46
+P:hreadnum: 1
+
+consumer data[6] = 46
+C:threadnum: 3
+producer data[7] = 47
+P:hreadnum: 1
+
+consumer data[7] = 47
+C:threadnum: 3
+producer data[8] = 48
+P:hreadnum: 1
+
+consumer data[8] = 48
+C:threadnum: 3
+producer data[9] = 49
+P:hreadnum: 0
+
+consumer data[9] = 49
+C:threadnum: 2
+producer data[0] = 50
+P:hreadnum: 0
+
+consumer data[0] = 50
+C:threadnum: 2
+producer data[1] = 51
+P:hreadnum: 0
+
+consumer data[1] = 51
+C:threadnum: 3
+producer data[2] = 52
+P:hreadnum: 0
+
+consumer data[2] = 52
+C:threadnum: 3
+producer data[3] = 53
+P:hreadnum: 1
+
+consumer data[3] = 53
+C:threadnum: 3
+producer data[4] = 54
+P:hreadnum: 1
+
+consumer data[4] = 54
+C:threadnum: 2
+producer data[5] = 55
+P:hreadnum: 1
+
+consumer data[5] = 55
+C:threadnum: 3
+producer data[6] = 56
+P:hreadnum: 1
+
+consumer data[6] = 56
+C:threadnum: 3
+producer data[7] = 57
+P:hreadnum: 1
+
+consumer data[7] = 57
+C:threadnum: 3
+producer data[8] = 58
+P:hreadnum: 0
+
+consumer data[8] = 58
+C:threadnum: 3
+producer data[9] = 59
+P:hreadnum: 1
+
+consumer data[9] = 59
+C:threadnum: 3
+producer data[0] = 60
+P:hreadnum: 1
+
+consumer data[0] = 60
+C:threadnum: 2
+producer data[1] = 61
+P:hreadnum: 0
+
+consumer data[1] = 61
+C:threadnum: 2
+producer data[2] = 62
+P:hreadnum: 0
+
+consumer data[2] = 62
+C:threadnum: 2
+producer data[3] = 63
+P:hreadnum: 1
+
+consumer data[3] = 63
+C:threadnum: 2
+producer data[4] = 64
+P:hreadnum: 1
+
+consumer data[4] = 64
+C:threadnum: 2
+producer data[5] = 65
+P:hreadnum: 1
+
+consumer data[5] = 65
+C:threadnum: 2
+producer data[6] = 66
+P:hreadnum: 0
+
+consumer data[6] = 66
+C:threadnum: 3
+producer data[7] = 67
+P:hreadnum: 0
+
+consumer data[7] = 67
+C:threadnum: 2
+producer data[8] = 68
+P:hreadnum: 1
+
+consumer data[8] = 68
+C:threadnum: 2
+producer data[9] = 69
+P:hreadnum: 1
+
+consumer data[9] = 69
+C:threadnum: 2
+producer data[0] = 70
+P:hreadnum: 1
+
+consumer data[0] = 70
+C:threadnum: 2
+producer data[1] = 71
+P:hreadnum: 1
+
+consumer data[1] = 71
+C:threadnum: 3
+producer data[2] = 72
+P:hreadnum: 1
+
+consumer data[2] = 72
+C:threadnum: 2
+producer data[3] = 73
+P:hreadnum: 1
+
+consumer data[3] = 73
+C:threadnum: 2
+producer data[4] = 74
+P:hreadnum: 0
+
+consumer data[4] = 74
+C:threadnum: 2
+producer data[5] = 75
+P:hreadnum: 1
+
+consumer data[5] = 75
+C:threadnum: 3
+producer data[6] = 76
+P:hreadnum: 0
+
+consumer data[6] = 76
+C:threadnum: 3
+producer data[7] = 77
+P:hreadnum: 1
+
+consumer data[7] = 77
+C:threadnum: 3
+producer data[8] = 78
+P:hreadnum: 1
+
+consumer data[8] = 78
+C:threadnum: 2
+producer data[9] = 79
+P:hreadnum: 1
+
+consumer data[9] = 79
+C:threadnum: 3
+producer data[0] = 80
+P:hreadnum: 0
+
+consumer data[0] = 80
+C:threadnum: 3
+producer data[1] = 81
+P:hreadnum: 1
+
+consumer data[1] = 81
+C:threadnum: 3
+producer data[2] = 82
+P:hreadnum: 1
+
+consumer data[2] = 82
+C:threadnum: 3
+producer data[3] = 83
+P:hreadnum: 1
+
+consumer data[3] = 83
+C:threadnum: 2
+producer data[4] = 84
+P:hreadnum: 0
+
+consumer data[4] = 84
+C:threadnum: 2
+producer data[5] = 85
+P:hreadnum: 0
+
+consumer data[5] = 85
+C:threadnum: 2
+producer data[6] = 86
+P:hreadnum: 1
+
+consumer data[6] = 86
+C:threadnum: 2
+producer data[7] = 87
+P:hreadnum: 1
+
+consumer data[7] = 87
+C:threadnum: 2
+producer data[8] = 88
+P:hreadnum: 1
+
+consumer data[8] = 88
+C:threadnum: 2
+producer data[9] = 89
+P:hreadnum: 0
+
+consumer data[9] = 89
+C:threadnum: 2
+producer data[0] = 90
+P:hreadnum: 1
+
+consumer data[0] = 90
+C:threadnum: 2
+producer data[1] = 91
+P:hreadnum: 1
+
+consumer data[1] = 91
+C:threadnum: 3
+producer data[2] = 92
+P:hreadnum: 1
+
+consumer data[2] = 92
+C:threadnum: 3
+producer data[3] = 93
+P:hreadnum: 1
+
+consumer data[3] = 93
+C:threadnum: 3
+producer data[4] = 94
+P:hreadnum: 1
+
+consumer data[4] = 94
+C:threadnum: 2
+producer data[5] = 95
+P:hreadnum: 1
+
+consumer data[5] = 95
+C:threadnum: 3
+producer data[6] = 96
+P:hreadnum: 1
+
+consumer data[6] = 96
+C:threadnum: 3
+producer data[7] = 97
+P:hreadnum: 1
+
+consumer data[7] = 97
+C:threadnum: 3
+producer data[8] = 98
+P:hreadnum: 1
+
+consumer data[8] = 98
+C:threadnum: 2
+producer data[9] = 99
+P:hreadnum: 1
+
+consumer data[9] = 99
+C:threadnum: 3
+producer 1 exiting
+producer 0 exiting
+consumer 3 exiting
+consumer 2 exiting

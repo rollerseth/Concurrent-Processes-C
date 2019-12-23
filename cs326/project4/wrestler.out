@@ -1,0 +1,1152 @@
+Username:  rollers
+Date:      Thu Nov 7 14:18:41 EST 2019
+ 
+*** compiling ***
+--- running ---
+ 
+
+Name: Seth Roller
+Lab Name: Arm Wrestler
+Problem: Arm Wrestler is in a tent and
+has to arm wrestle patrons who wait in
+a waiting room with a limited capacity.
+
+parent's pid: 25450
+arm wrestler's pid: 25449
+Patron 25451 entered the fair
+Patron 25451 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25451 is wrestling
+Patron 25451 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25451 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25451 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25451 is wrestling
+Patron 25451 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25451 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25451 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+Patron 25452 entered the fair
+Patron 25453 entered the fair
+arm wrestler is wrestling
+Patron 25451 is wrestling
+Patron 25453 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25452 is now in the waiting room, he's #2
+Patron 25451 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25454 entered the fair
+Patron 25453 is wrestling
+Patron 25454 is now in the waiting room, he's #3
+RESULT: PATRON WINS MATCH
+
+Patron 25453 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25453 is now in the waiting room, he's #3
+Patron 25455 entered the fair
+Patron 25452 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25452 finds room rull, leaves
+Patron 25455 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25452 is now in the waiting room, he's #3
+Patron 25455 finds room rull, leaves
+Patron 25455 finds room rull, leaves
+Patron 25451 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25451 finds room rull, leaves
+Patron 25455 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25451 is now in the waiting room, he's #3
+Patron 25455 finds room rull, leaves
+Patron 25454 is wrestling
+Patron 25455 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25454 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25455 is now in the waiting room, he's #3
+Patron 25454 finds room rull, leaves
+Patron 25454 finds room rull, leaves
+Patron 25453 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25453 finds room rull, leaves
+Patron 25454 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25453 is now in the waiting room, he's #3
+Patron 25454 finds room rull, leaves
+Patron 25452 is wrestling
+Patron 25454 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25452 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25454 is now in the waiting room, he's #3
+Patron 25452 finds room rull, leaves
+Patron 25451 is wrestling
+Patron 25452 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25451 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25452 is now in the waiting room, he's #3
+Patron 25451 finds room rull, leaves
+Patron 25455 is wrestling
+Patron 25451 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25455 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25451 is now in the waiting room, he's #3
+Patron 25455 finds room rull, leaves
+Patron 25455 finds room rull, leaves
+Patron 25453 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25453 finds room rull, leaves
+Patron 25455 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25453 is now in the waiting room, he's #3
+Patron 25455 finds room rull, leaves
+Patron 25454 is wrestling
+Patron 25455 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25454 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25455 is now in the waiting room, he's #3
+Patron 25454 finds room rull, leaves
+Patron 25452 is wrestling
+Patron 25454 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25452 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25454 is now in the waiting room, he's #3
+Patron 25452 finds room rull, leaves
+Patron 25451 is wrestling
+Patron 25452 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25451 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25452 is now in the waiting room, he's #3
+Patron 25451 finds room rull, leaves
+Patron 25453 is wrestling
+Patron 25451 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25453 finds room rull, leaves
+Patron 25451 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25453 is now in the waiting room, he's #3
+Patron 25451 finds room rull, leaves
+Patron 25455 is wrestling
+Patron 25451 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25455 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25451 is now in the waiting room, he's #3
+Patron 25455 finds room rull, leaves
+Patron 25454 is wrestling
+Patron 25455 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25454 finds room rull, leaves
+wrestler is terminating
+waking everyone up
+
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+Arm Wrestler's Winning is $160
+Patron's Winnings are $100
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Arm Wrestler
+Problem: Arm Wrestler is in a tent and
+has to arm wrestle patrons who wait in
+a waiting room with a limited capacity.
+
+parent's pid: 25457
+arm wrestler's pid: 25456
+Patron 25458 entered the fair
+Patron 25458 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25458 is wrestling
+Patron 25458 is now in the waiting room, he's #1
+Patron 25459 entered the fair
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25459 is now in the waiting room, he's #2
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25458 is wrestling
+Patron 25458 is now in the waiting room, he's #2
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25459 is wrestling
+Patron 25459 is now in the waiting room, he's #2
+RESULT: PATRON WINS MATCH
+
+admitted a patron, seat freed up
+Patron 25460 entered the fair
+arm wrestler is wrestling
+Patron 25458 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25460 is now in the waiting room, he's #2
+Patron 25458 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25459 is wrestling
+Patron 25459 is now in the waiting room, he's #3
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25460 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25460 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25458 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25458 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25462 entered the fair
+Patron 25459 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25462 is now in the waiting room, he's #3
+Patron 25461 entered the fair
+Patron 25459 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25461 is now in the waiting room, he's #3
+Patron 25459 finds room rull, leaves
+Patron 25459 finds room rull, leaves
+Patron 25460 is wrestling
+Patron 25459 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25460 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25459 is now in the waiting room, he's #3
+Patron 25460 finds room rull, leaves
+Patron 25458 is wrestling
+Patron 25460 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25458 finds room rull, leaves
+Patron 25460 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25458 is now in the waiting room, he's #3
+Patron 25460 finds room rull, leaves
+Patron 25462 is wrestling
+Patron 25460 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25462 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25460 is now in the waiting room, he's #3
+Patron 25462 finds room rull, leaves
+Patron 25461 is wrestling
+Patron 25462 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25461 finds room rull, leaves
+Patron 25462 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25461 is now in the waiting room, he's #3
+Patron 25462 finds room rull, leaves
+Patron 25459 is wrestling
+Patron 25462 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25459 finds room rull, leaves
+Patron 25462 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25459 is now in the waiting room, he's #3
+Patron 25462 finds room rull, leaves
+Patron 25458 is wrestling
+Patron 25462 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25458 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25462 is now in the waiting room, he's #3
+Patron 25458 finds room rull, leaves
+Patron 25460 is wrestling
+Patron 25458 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25460 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25458 is now in the waiting room, he's #3
+Patron 25460 finds room rull, leaves
+Patron 25460 finds room rull, leaves
+Patron 25461 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25460 finds room rull, leaves
+Patron 25461 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25460 is now in the waiting room, he's #3
+Patron 25461 finds room rull, leaves
+Patron 25459 is wrestling
+Patron 25461 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25459 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25461 is now in the waiting room, he's #3
+Patron 25459 finds room rull, leaves
+Patron 25459 finds room rull, leaves
+Patron 25462 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25459 finds room rull, leaves
+Patron 25462 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25459 is now in the waiting room, he's #3
+Patron 25462 finds room rull, leaves
+Patron 25458 is wrestling
+Patron 25462 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25458 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25462 is now in the waiting room, he's #3
+Patron 25458 finds room rull, leaves
+Patron 25460 is wrestling
+Patron 25458 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25460 finds room rull, leaves
+wrestler is terminating
+waking everyone up
+
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+Arm Wrestler's Winning is $140
+Patron's Winnings are $150
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Arm Wrestler
+Problem: Arm Wrestler is in a tent and
+has to arm wrestle patrons who wait in
+a waiting room with a limited capacity.
+
+parent's pid: 25464
+arm wrestler's pid: 25463
+Patron 25465 entered the fair
+Patron 25465 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is wrestling
+Patron 25465 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is wrestling
+Patron 25465 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is wrestling
+Patron 25465 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is wrestling
+Patron 25465 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25465 is now in the waiting room, he's #1
+Patron 25467 entered the fair
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25467 is now in the waiting room, he's #1
+Patron 25466 entered the fair
+Patron 25465 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25466 is now in the waiting room, he's #2
+Patron 25465 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25467 is wrestling
+Patron 25467 is now in the waiting room, he's #3
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25466 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25466 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25468 entered the fair
+Patron 25465 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25468 is now in the waiting room, he's #3
+Patron 25470 entered the fair
+Patron 25465 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25470 is now in the waiting room, he's #3
+Patron 25465 finds room rull, leaves
+Patron 25467 is wrestling
+Patron 25465 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25467 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is now in the waiting room, he's #3
+Patron 25467 finds room rull, leaves
+Patron 25466 is wrestling
+Patron 25467 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25466 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25467 is now in the waiting room, he's #3
+Patron 25466 finds room rull, leaves
+Patron 25468 is wrestling
+Patron 25466 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25468 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25466 is now in the waiting room, he's #3
+Patron 25468 finds room rull, leaves
+Patron 25470 is wrestling
+Patron 25468 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25470 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25468 is now in the waiting room, he's #3
+Patron 25470 finds room rull, leaves
+Patron 25465 is wrestling
+Patron 25470 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25465 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25470 is now in the waiting room, he's #3
+Patron 25465 finds room rull, leaves
+Patron 25465 finds room rull, leaves
+Patron 25467 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25467 finds room rull, leaves
+Patron 25465 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25467 is now in the waiting room, he's #3
+Patron 25465 finds room rull, leaves
+Patron 25466 is wrestling
+Patron 25465 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25466 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25465 is now in the waiting room, he's #3
+Patron 25466 finds room rull, leaves
+Patron 25468 is wrestling
+Patron 25466 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25468 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25466 is now in the waiting room, he's #3
+Patron 25468 finds room rull, leaves
+Patron 25470 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25468 finds room rull, leaves
+Patron 25470 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25468 is now in the waiting room, he's #3
+Patron 25470 finds room rull, leaves
+Patron 25467 is wrestling
+Patron 25470 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25467 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25470 is now in the waiting room, he's #3
+Patron 25467 finds room rull, leaves
+Patron 25465 is wrestling
+Patron 25467 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25465 finds room rull, leaves
+Patron 25467 finds room rull, leaves
+wrestler is terminating
+waking everyone up
+
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+Arm Wrestler's Winning is $180
+Patron's Winnings are $50
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Arm Wrestler
+Problem: Arm Wrestler is in a tent and
+has to arm wrestle patrons who wait in
+a waiting room with a limited capacity.
+
+parent's pid: 25472
+arm wrestler's pid: 25471
+Patron 25473 entered the fair
+Patron 25473 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25473 is wrestling
+Patron 25474 entered the fair
+Patron 25473 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25474 is now in the waiting room, he's #2
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25473 is wrestling
+Patron 25473 is now in the waiting room, he's #2
+RESULT: PATRON WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25475 entered the fair
+Patron 25474 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25475 is now in the waiting room, he's #2
+Patron 25474 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25473 is wrestling
+Patron 25473 is now in the waiting room, he's #3
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25475 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25475 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25476 entered the fair
+Patron 25474 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25476 is now in the waiting room, he's #3
+Patron 25474 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25474 is now in the waiting room, he's #3
+Patron 25477 entered the fair
+Patron 25473 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25477 finds room rull, leaves
+Patron 25473 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25477 is now in the waiting room, he's #3
+Patron 25473 finds room rull, leaves
+Patron 25475 is wrestling
+Patron 25473 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25475 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25473 is now in the waiting room, he's #3
+Patron 25475 finds room rull, leaves
+Patron 25476 is wrestling
+Patron 25475 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25476 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25475 is now in the waiting room, he's #3
+Patron 25476 finds room rull, leaves
+Patron 25474 is wrestling
+Patron 25476 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25474 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25476 is now in the waiting room, he's #3
+Patron 25474 finds room rull, leaves
+Patron 25477 is wrestling
+Patron 25474 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25477 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25474 is now in the waiting room, he's #3
+Patron 25477 finds room rull, leaves
+Patron 25473 is wrestling
+Patron 25477 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25473 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25477 is now in the waiting room, he's #3
+Patron 25473 finds room rull, leaves
+Patron 25475 is wrestling
+Patron 25473 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25475 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25473 is now in the waiting room, he's #3
+Patron 25475 finds room rull, leaves
+Patron 25476 is wrestling
+Patron 25475 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25476 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25475 is now in the waiting room, he's #3
+Patron 25476 finds room rull, leaves
+Patron 25474 is wrestling
+Patron 25476 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25474 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25476 is now in the waiting room, he's #3
+Patron 25474 finds room rull, leaves
+Patron 25477 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25474 finds room rull, leaves
+Patron 25477 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25474 is now in the waiting room, he's #3
+Patron 25477 finds room rull, leaves
+Patron 25473 is wrestling
+Patron 25477 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25473 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25477 is now in the waiting room, he's #3
+Patron 25473 finds room rull, leaves
+Patron 25475 is wrestling
+Patron 25473 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25475 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25473 is now in the waiting room, he's #3
+Patron 25475 finds room rull, leaves
+Patron 25476 is wrestling
+Patron 25475 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25476 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25475 is now in the waiting room, he's #3
+Patron 25476 finds room rull, leaves
+Patron 25474 is wrestling
+Patron 25476 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25474 finds room rull, leaves
+wrestler is terminating
+waking everyone up
+
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+Arm Wrestler's Winning is $170
+Patron's Winnings are $75
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Arm Wrestler
+Problem: Arm Wrestler is in a tent and
+has to arm wrestle patrons who wait in
+a waiting room with a limited capacity.
+
+parent's pid: 25479
+arm wrestler's pid: 25478
+Patron 25480 entered the fair
+Patron 25480 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is wrestling
+Patron 25480 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is wrestling
+Patron 25480 is now in the waiting room, he's #1
+RESULT: PATRON WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25480 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is wrestling
+Patron 25480 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is wrestling
+Patron 25480 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25481 entered the fair
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25481 is now in the waiting room, he's #1
+Patron 25482 entered the fair
+Patron 25480 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25482 is now in the waiting room, he's #2
+Patron 25480 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25481 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25481 is now in the waiting room, he's #3
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25482 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25482 is now in the waiting room, he's #3
+Patron 25483 entered the fair
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25483 is now in the waiting room, he's #3
+Patron 25480 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25480 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is now in the waiting room, he's #3
+Patron 25481 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25481 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25481 is now in the waiting room, he's #3
+Patron 25482 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25482 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25482 is now in the waiting room, he's #3
+Patron 25484 entered the fair
+Patron 25483 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25484 finds room rull, leaves
+Patron 25483 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25484 is now in the waiting room, he's #3
+Patron 25483 finds room rull, leaves
+Patron 25480 is wrestling
+Patron 25483 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25480 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25483 is now in the waiting room, he's #3
+Patron 25480 finds room rull, leaves
+Patron 25481 is wrestling
+Patron 25480 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25481 finds room rull, leaves
+Patron 25480 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25481 is now in the waiting room, he's #3
+Patron 25480 finds room rull, leaves
+Patron 25482 is wrestling
+Patron 25480 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25482 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25480 is now in the waiting room, he's #3
+Patron 25482 finds room rull, leaves
+Patron 25484 is wrestling
+Patron 25482 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25484 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25482 is now in the waiting room, he's #3
+Patron 25484 finds room rull, leaves
+Patron 25483 is wrestling
+Patron 25484 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25483 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25484 is now in the waiting room, he's #3
+Patron 25483 finds room rull, leaves
+Patron 25483 finds room rull, leaves
+Patron 25481 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25481 finds room rull, leaves
+Patron 25483 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25481 is now in the waiting room, he's #3
+Patron 25483 finds room rull, leaves
+Patron 25480 is wrestling
+Patron 25483 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25480 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25483 is now in the waiting room, he's #3
+Patron 25480 finds room rull, leaves
+Patron 25482 is wrestling
+Patron 25480 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25482 finds room rull, leaves
+wrestler is terminating
+waking everyone up
+
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+Arm Wrestler's Winning is $150
+Patron's Winnings are $125
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Arm Wrestler
+Problem: Arm Wrestler is in a tent and
+has to arm wrestle patrons who wait in
+a waiting room with a limited capacity.
+
+parent's pid: 25486
+arm wrestler's pid: 25485
+Patron 25488 entered the fair
+Patron 25488 is now in the waiting room, he's #1
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25487 entered the fair
+Patron 25488 is wrestling
+Patron 25487 is now in the waiting room, he's #1
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25488 is now in the waiting room, he's #2
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25487 is wrestling
+Patron 25487 is now in the waiting room, he's #2
+RESULT: ARM WRESTLER WINS MATCH
+
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25488 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25488 is now in the waiting room, he's #2
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25487 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25487 is now in the waiting room, he's #2
+Patron 25490 entered the fair
+admitted a patron, seat freed up
+Patron 25489 entered the fair
+arm wrestler is wrestling
+Patron 25490 is now in the waiting room, he's #2
+Patron 25488 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25489 is now in the waiting room, he's #3
+Patron 25488 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25488 is now in the waiting room, he's #3
+Patron 25487 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25491 entered the fair
+Patron 25487 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25491 is now in the waiting room, he's #3
+Patron 25487 finds room rull, leaves
+Patron 25490 is wrestling
+Patron 25487 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25490 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25487 is now in the waiting room, he's #3
+Patron 25490 finds room rull, leaves
+Patron 25489 is wrestling
+Patron 25490 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25489 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25490 is now in the waiting room, he's #3
+Patron 25489 finds room rull, leaves
+Patron 25488 is wrestling
+Patron 25489 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25488 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25489 is now in the waiting room, he's #3
+Patron 25488 finds room rull, leaves
+Patron 25491 is wrestling
+Patron 25488 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25491 finds room rull, leaves
+Patron 25488 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25491 is now in the waiting room, he's #3
+Patron 25488 finds room rull, leaves
+Patron 25487 is wrestling
+Patron 25488 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25487 finds room rull, leaves
+Patron 25488 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25487 is now in the waiting room, he's #3
+Patron 25488 finds room rull, leaves
+Patron 25490 is wrestling
+Patron 25488 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25490 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25488 is now in the waiting room, he's #3
+Patron 25490 finds room rull, leaves
+Patron 25489 is wrestling
+Patron 25490 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25489 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25490 is now in the waiting room, he's #3
+Patron 25489 finds room rull, leaves
+Patron 25489 finds room rull, leaves
+Patron 25491 is wrestling
+RESULT: PATRON WINS MATCH
+
+Patron 25491 finds room rull, leaves
+Patron 25489 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25491 is now in the waiting room, he's #3
+Patron 25489 finds room rull, leaves
+Patron 25487 is wrestling
+Patron 25489 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25487 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25489 is now in the waiting room, he's #3
+Patron 25487 finds room rull, leaves
+Patron 25487 finds room rull, leaves
+Patron 25488 is wrestling
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25487 finds room rull, leaves
+Patron 25488 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25487 is now in the waiting room, he's #3
+Patron 25488 finds room rull, leaves
+Patron 25488 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25490 is wrestling
+Patron 25490 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25488 is now in the waiting room, he's #3
+Patron 25490 finds room rull, leaves
+Patron 25491 is wrestling
+Patron 25490 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25491 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25490 is now in the waiting room, he's #3
+Patron 25491 finds room rull, leaves
+Patron 25489 is wrestling
+Patron 25491 finds room rull, leaves
+RESULT: ARM WRESTLER WINS MATCH
+
+Patron 25489 finds room rull, leaves
+Patron 25491 finds room rull, leaves
+admitted a patron, seat freed up
+arm wrestler is wrestling
+Patron 25489 is now in the waiting room, he's #3
+Patron 25491 finds room rull, leaves
+Patron 25487 is wrestling
+Patron 25491 finds room rull, leaves
+RESULT: PATRON WINS MATCH
+
+Patron 25487 finds room rull, leaves
+Patron 25491 finds room rull, leaves
+wrestler is terminating
+waking everyone up
+
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+process exiting
+Arm Wrestler's Winning is $140
+Patron's Winnings are $150

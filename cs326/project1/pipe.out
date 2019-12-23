@@ -1,0 +1,233 @@
+Username:  rollers
+Date:      Thu Sep 19 10:51:29 EDT 2019
+ 
+*** compiling ***
+--- running ---
+ 
+
+Name: Seth Roller
+Lab Name: Pipes
+Problem: A calculator has been implemented through
+the utilization of pipes.
+
+Enter the following below to perform calculator operations.
++ for addition
+- for substraction
+* for multiplication
+/ for division
+X for termination
+
+Enter your option: 
+You entered +
+
+Enter your operand1: 
+You entered 2
+
+Enter your operand2: 
+You entered 2
+
+The result of 2 + 2 is 4
+
+Enter your option: 
+You entered +
+
+Enter your operand1: 
+You entered 500
+
+Enter your operand2: 
+You entered 750
+
+The result of 500 + 750 is 1250
+
+Enter your option: 
+You entered -
+
+Enter your operand1: 
+You entered 5
+
+Enter your operand2: 
+You entered 7
+
+The result of 5 - 7 is -2
+
+Enter your option: 
+You entered -
+
+Enter your operand1: 
+You entered 750
+
+Enter your operand2: 
+You entered 50
+
+The result of 750 - 50 is 700
+
+Enter your option: 
+You entered *
+
+Enter your operand1: 
+You entered 2
+
+Enter your operand2: 
+You entered 2
+
+The result of 2 * 2 is 4
+
+Enter your option: 
+You entered *
+
+Enter your operand1: 
+You entered 9
+
+Enter your operand2: 
+You entered 9
+
+The result of 9 * 9 is 81
+
+Enter your option: 
+You entered /
+
+Enter your operand1: 
+You entered 4
+
+Enter your operand2: 
+You entered 2
+
+The result of 4 / 2 is 2
+
+Enter your option: 
+You entered /
+
+Enter your operand1: 
+You entered 8
+
+Enter your operand2: 
+You entered 4
+
+The result of 8 / 4 is 2
+
+Enter your option: 
+You entered /
+
+Enter your operand1: 
+You entered 9
+
+Enter your operand2: 
+You entered 2
+
+The result of 9 / 2 is 4
+
+Enter your option: 
+You entered /
+
+Enter your operand1: 
+You entered 500
+
+Enter your operand2: 
+You entered 500
+
+The result of 500 / 500 is 1
+
+Enter your option: 
+You entered +
+
+Enter your operand1: 
+You entered 1
+
+Enter your operand2: 
+You entered 1
+
+The result of 1 + 1 is 2
+
+Enter your option: 
+You entered -
+
+Enter your operand1: 
+You entered 1
+
+Enter your operand2: 
+You entered 1
+
+The result of 1 - 1 is 0
+
+Enter your option: 
+You entered *
+
+Enter your operand1: 
+You entered 1
+
+Enter your operand2: 
+You entered 1
+
+The result of 1 * 1 is 1
+
+Enter your option: 
+You entered /
+
+Enter your operand1: 
+You entered 1
+
+Enter your operand2: 
+You entered 1
+
+The result of 1 / 1 is 1
+
+Enter your option: 
+You entered X
+
+Exiting
+--- Running again with invalid input---
+ 
+
+Name: Seth Roller
+Lab Name: Pipes
+Problem: A calculator has been implemented through
+the utilization of pipes.
+
+Enter the following below to perform calculator operations.
++ for addition
+- for substraction
+* for multiplication
+/ for division
+X for termination
+
+Enter your option: 
+Invalid input of ?!
+
+Please enter +, -, *, /, or X.
+
+Enter your option: 
+You entered +
+
+Enter your operand1: 
+You entered 5
+
+Enter your operand2: 
+You entered 6
+
+The result of 5 + 6 is 11
+
+Enter your option: 
+You entered -
+
+Enter your operand1: 
+Invalid input!
+
+Please enter an integer.
+
+Enter your operand1: 
+You entered 4
+
+Enter your operand2: 
+You entered 4
+
+The result of 4 - 4 is 0
+
+Enter your option: 
+Invalid input of 2!
+
+Please enter +, -, *, /, or X.
+
+Enter your option: 
+You entered X
+
+Exiting

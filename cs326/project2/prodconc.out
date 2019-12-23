@@ -1,0 +1,79 @@
+Username:  rollers
+Date:      Tue Oct 8 15:44:15 EDT 2019
+ 
+*** compiling ***
+--- running ---
+ 
+
+Name: Seth Roller
+Lab Name: Single Consumer/Single Producer
+Problem: Will be printing out the first 1000
+integers through the theory
+of a single producersingle consumer by memory and semaphores.
+
+parent's pid: 21044
+child's pid: 21054
+sum of all items: 500500
+child is terminating
+parent is terminating
+
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Single Consumer/Single Producer
+Problem: Will be printing out the first 1000
+integers through the theory
+of a single producersingle consumer by memory and semaphores.
+
+parent's pid: 21044
+child's pid: 21057
+sum of all items: 500500
+child is terminating
+parent is terminating
+
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Single Consumer/Single Producer
+Problem: Will be printing out the first 1000
+integers through the theory
+of a single producersingle consumer by memory and semaphores.
+
+parent's pid: 21044
+child's pid: 21059
+sum of all items: 500500
+child is terminating
+parent is terminating
+
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Single Consumer/Single Producer
+Problem: Will be printing out the first 1000
+integers through the theory
+of a single producersingle consumer by memory and semaphores.
+
+parent's pid: 21044
+child's pid: 21061
+sum of all items: 500500
+child is terminating
+parent is terminating
+
+--- Running again ---
+ 
+
+Name: Seth Roller
+Lab Name: Single Consumer/Single Producer
+Problem: Will be printing out the first 1000
+integers through the theory
+of a single producersingle consumer by memory and semaphores.
+
+parent's pid: 21044
+child's pid: 21063
+sum of all items: 500500
+child is terminating
+parent is terminating
+

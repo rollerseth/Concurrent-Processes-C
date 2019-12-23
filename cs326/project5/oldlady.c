@@ -1,0 +1,199 @@
+/*
+#Filename: oldlady.c
+
+#Name: Seth Roller
+
+#Date: 11/19/19
+
+#Program Name: oldlady.c
+
+#Assignment Number: 5
+
+#Problem:
+Using message queues to assemble
+the old lady who swallowed a fly
+nursery ryhme
+
+#Flow:
+Above main is the childsender function
+which sends messages and then the main is where
+the forking occurs and the message receiving
+
+#Sources: None were used
+
+ */
+#include <string.h>         // string
+#include <sys/types.h>
+#include <sys/ipc.h>
+#include <unistd.h>
+#include <wait.h>
+#include <sys/msg.h>
+#include <sys/errno.h>
+#include <sys/shm.h>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+#define NUMBEROFVERSES 8
+#define MSGPERM 0600
+
+struct sendverse {
+  long mtype;
+  struct verse {  
+    int childno;
+    char sheswalloweda[30];
+    char theverse[200];
+  }verse;
+}qentry;
+
+
+const char *swallowed[NUMBEROFVERSES] = {
+"fly; ",
+"spider",
+"bird",
+"cat",
+"dog",
+"goat",
+"cow",
+"horse"
+};
+
+
+const char *thewords[200]={
+"I don't know why she swallowed a fly, perhaps she'll die!",
+"It wriggled and jiggled and tickled inside her! \n She swallowed the spider to catch the fly;",
+"How absurd to swallow a bird! She swallowed the bird to catch the spider; ",
+"Imagine that! She swallowed a cat! She swallowed the cat to catch the bird, ",
+"What a hog, to swallow a dog! She swallowed the dog to catch the cat, ",
+"She just opened her throat and swallowed a goat! \n She swallowed the goat to catch the dog, ",
+
+"I do not know how she swallowed the cow! \n She swallowed the cow to catch the goat, ",
+"She is dead of course!!!"
+};
+
+
+void childsender(int childnumber, int *id)
+{
+  struct sendverse recite;
+  int rc;
+
+  recite.mtype = 1;
+  recite.verse.childno = childnumber;
+  
+  strcpy(recite.verse.sheswalloweda, swallowed[childnumber]);
+  strcpy(recite.verse.theverse, thewords[childnumber]);
+
+  printf("child %d is sending message %d\n", getpid(), childnumber);
+  fflush(stdout);
+  rc = msgsnd(*id, &recite, sizeof(qentry.verse),0);
+  
+}//end child
+
+
+int main() {
+
+  int msgqid;
+  int rc;
+  int retval;
+  int lock;
+  
+  msgqid = msgget(IPC_PRIVATE,MSGPERM|IPC_CREAT|IPC_EXCL);
+
+  printf("\nmessageid: %d\n", msgqid);
+  fflush(stdout);
+
+  retval = fork();
+
+  if (retval < 0) {
+    perror("Fork Failed:");
+    return(-1); /*fork failed*/
+  }
+  
+  //child 0
+  if (retval == 0) {
+
+    printf("assembler process: %d\n", getpid());
+    fflush(stdout);
+
+    //declare the local arrays
+    char versus[8][200];
+    char swall[8][30];
+    
+    for (int i = 0; i < 8; i++) {
+      
+      struct sendverse torecite;
+      rc = msgrcv(msgqid,&torecite,sizeof(qentry.verse),0,0);
+
+      printf("child no received: %d\n", torecite.verse.childno);
+      fflush(stdout);
+
+      //copy info from message into local arrays
+      strcpy(versus[torecite.verse.childno], torecite.verse.theverse);
+      strcpy(swall[torecite.verse.childno], torecite.verse.sheswalloweda);
+      
+    }
+
+    for (int j = 0; j < 8; j++) {
+
+      printf("There was an old lady who swallowed a %s\n", swall[j]);
+      fflush(stdout);
+
+      printf("%s\n\n", versus[j]);
+      fflush(stdout);
+
+      if (j == 7)
+	break;
+      
+      for (int k = j-1; k >=0; k--) {
+	printf("%s\n", versus[k]);
+	fflush(stdout);
+      }
+
+      printf("\n");
+      fflush(stdout);
+    }
+    
+    printf("\nassembler terminating\n");
+    fflush(stdout);
+  }
+
+  //parent
+  else {
+
+    printf("parent process: %d\n", getpid());
+    fflush(stdout);
+
+    for (int i = 0; i < 8; i++) {
+      
+      retval = fork();
+
+      if (retval < 0) {
+	perror("Fork Failed:");
+	return(-1); /*fork failed*/
+      }
+      
+      //child processes 1-8
+      else if (retval == 0) {
+	childsender(i, &msgqid);
+	break;
+      }
+      
+    }
+
+    if (retval != 0) {
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      wait(&lock);
+      //wait for the 9 other processes and release control
+      rc = msgctl(msgqid,IPC_RMID,NULL);
+    }
+    
+  }//end of parent
+
+}

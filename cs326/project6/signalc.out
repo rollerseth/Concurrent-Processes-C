@@ -1,0 +1,1072 @@
+Username:  rollers
+Date:      Tue Dec 3 12:40:59 EST 2019
+ 
+*** compiling ***
+--- running ---
+ 
+child 11357 has control  
+child 11358 has control  
+child 11359 has control  
+child 11360 has control  
+child 11361 has control  
+child 11362 has control  
+child 11363 has control  
+child 11364 has control  
+child 11365 has control  
+child 11366 has control  
+parent signalling child 11368
+parent waiting for child to terminate
+child 11367 has control  
+child 11368 has control  
+signal 1 received by signal handler child 11368 
+child 11368 printing
+On the first day of Christmas
+my true love sent to me:
+A Partridge in a Pear Tree
+
+signaling child 11367 from child 11368
+child 11368 terminating after signal  
+signal 1 received by signal handler child 11367 
+child 11367 printing
+On the second day of Christmas
+my true love sent to me:
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11366 from child 11367
+child 11367 terminating after signal  
+signal 1 received by signal handler child 11366 
+child 11366 printing
+On the third day of Christmas
+my true love sent to me:
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11365 from child 11366
+child 11366 terminating after signal  
+signal 1 received by signal handler child 11365 
+child 11365 printing
+On the fourth day of Christmas
+my true love sent to me:
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11364 from child 11365
+child 11365 terminating after signal  
+signal 1 received by signal handler child 11364 
+child 11364 printing
+On the fifth day of Christmas
+my true love sent to me:
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11363 from child 11364
+child 11364 terminating after signal  
+signal 1 received by signal handler child 11363 
+child 11363 printing
+On the sixth day of Christmas
+my true love sent to me:
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11362 from child 11363
+child 11363 terminating after signal  
+signal 1 received by signal handler child 11362 
+child 11362 printing
+On the seventh day of Christmas
+my true love sent to me:
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11361 from child 11362
+child 11362 terminating after signal  
+signal 1 received by signal handler child 11361 
+child 11361 printing
+On the eighth day of Christmas
+my true love sent to me:
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11360 from child 11361
+child 11361 terminating after signal  
+signal 1 received by signal handler child 11360 
+child 11360 printing
+On the ninth day of Christmas
+my true love sent to me:
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11359 from child 11360
+child 11360 terminating after signal  
+signal 1 received by signal handler child 11359 
+child 11359 printing
+On the tenth day of Christmas
+my true love sent to me:
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11358 from child 11359
+child 11359 terminating after signal  
+signal 1 received by signal handler child 11358 
+child 11358 printing
+On the eleventh day of Christmas
+my true love sent to me:
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11357 from child 11358
+child 11358 terminating after signal  
+signal 1 received by signal handler child 11357 
+child 11357 printing
+On the twelfth day of Christmas
+my true love sent to me:
+Twelve Drummers Drumming
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+child 11357 terminating after signal  
+parent TERMINATING 
+--- Running again ---
+ 
+child 11370 has control  
+child 11371 has control  
+child 11372 has control  
+child 11373 has control  
+child 11374 has control  
+child 11375 has control  
+child 11376 has control  
+child 11377 has control  
+child 11378 has control  
+child 11379 has control  
+child 11380 has control  
+parent signalling child 11381
+parent waiting for child to terminate
+child 11381 has control  
+signal 1 received by signal handler child 11381 
+child 11381 printing
+On the first day of Christmas
+my true love sent to me:
+A Partridge in a Pear Tree
+
+signaling child 11380 from child 11381
+child 11381 terminating after signal  
+signal 1 received by signal handler child 11380 
+child 11380 printing
+On the second day of Christmas
+my true love sent to me:
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11379 from child 11380
+child 11380 terminating after signal  
+signal 1 received by signal handler child 11379 
+child 11379 printing
+On the third day of Christmas
+my true love sent to me:
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11378 from child 11379
+child 11379 terminating after signal  
+signal 1 received by signal handler child 11378 
+child 11378 printing
+On the fourth day of Christmas
+my true love sent to me:
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11377 from child 11378
+child 11378 terminating after signal  
+signal 1 received by signal handler child 11377 
+child 11377 printing
+On the fifth day of Christmas
+my true love sent to me:
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11376 from child 11377
+child 11377 terminating after signal  
+signal 1 received by signal handler child 11376 
+child 11376 printing
+On the sixth day of Christmas
+my true love sent to me:
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11375 from child 11376
+child 11376 terminating after signal  
+signal 1 received by signal handler child 11375 
+child 11375 printing
+On the seventh day of Christmas
+my true love sent to me:
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11374 from child 11375
+child 11375 terminating after signal  
+signal 1 received by signal handler child 11374 
+child 11374 printing
+On the eighth day of Christmas
+my true love sent to me:
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11373 from child 11374
+child 11374 terminating after signal  
+signal 1 received by signal handler child 11373 
+child 11373 printing
+On the ninth day of Christmas
+my true love sent to me:
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11372 from child 11373
+child 11373 terminating after signal  
+signal 1 received by signal handler child 11372 
+child 11372 printing
+On the tenth day of Christmas
+my true love sent to me:
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11371 from child 11372
+child 11372 terminating after signal  
+signal 1 received by signal handler child 11371 
+child 11371 printing
+On the eleventh day of Christmas
+my true love sent to me:
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11370 from child 11371
+child 11371 terminating after signal  
+signal 1 received by signal handler child 11370 
+child 11370 printing
+On the twelfth day of Christmas
+my true love sent to me:
+Twelve Drummers Drumming
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+child 11370 terminating after signal  
+parent TERMINATING 
+--- Running again ---
+ 
+child 11383 has control  
+child 11384 has control  
+child 11385 has control  
+child 11386 has control  
+child 11387 has control  
+child 11388 has control  
+child 11389 has control  
+child 11390 has control  
+child 11391 has control  
+child 11392 has control  
+parent signalling child 11394
+parent waiting for child to terminate
+child 11393 has control  
+child 11394 has control  
+signal 1 received by signal handler child 11394 
+child 11394 printing
+On the first day of Christmas
+my true love sent to me:
+A Partridge in a Pear Tree
+
+signaling child 11393 from child 11394
+child 11394 terminating after signal  
+signal 1 received by signal handler child 11393 
+child 11393 printing
+On the second day of Christmas
+my true love sent to me:
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11392 from child 11393
+child 11393 terminating after signal  
+signal 1 received by signal handler child 11392 
+child 11392 printing
+On the third day of Christmas
+my true love sent to me:
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11391 from child 11392
+child 11392 terminating after signal  
+signal 1 received by signal handler child 11391 
+child 11391 printing
+On the fourth day of Christmas
+my true love sent to me:
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11390 from child 11391
+child 11391 terminating after signal  
+signal 1 received by signal handler child 11390 
+child 11390 printing
+On the fifth day of Christmas
+my true love sent to me:
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11389 from child 11390
+child 11390 terminating after signal  
+signal 1 received by signal handler child 11389 
+child 11389 printing
+On the sixth day of Christmas
+my true love sent to me:
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11388 from child 11389
+child 11389 terminating after signal  
+signal 1 received by signal handler child 11388 
+child 11388 printing
+On the seventh day of Christmas
+my true love sent to me:
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11387 from child 11388
+child 11388 terminating after signal  
+signal 1 received by signal handler child 11387 
+child 11387 printing
+On the eighth day of Christmas
+my true love sent to me:
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11386 from child 11387
+child 11387 terminating after signal  
+signal 1 received by signal handler child 11386 
+child 11386 printing
+On the ninth day of Christmas
+my true love sent to me:
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11385 from child 11386
+child 11386 terminating after signal  
+signal 1 received by signal handler child 11385 
+child 11385 printing
+On the tenth day of Christmas
+my true love sent to me:
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11384 from child 11385
+child 11385 terminating after signal  
+signal 1 received by signal handler child 11384 
+child 11384 printing
+On the eleventh day of Christmas
+my true love sent to me:
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11383 from child 11384
+child 11384 terminating after signal  
+signal 1 received by signal handler child 11383 
+child 11383 printing
+On the twelfth day of Christmas
+my true love sent to me:
+Twelve Drummers Drumming
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+child 11383 terminating after signal  
+parent TERMINATING 
+--- Running again ---
+ 
+child 11396 has control  
+child 11397 has control  
+child 11398 has control  
+child 11399 has control  
+child 11400 has control  
+child 11401 has control  
+child 11402 has control  
+child 11403 has control  
+child 11404 has control  
+child 11405 has control  
+parent signalling child 11407
+parent waiting for child to terminate
+child 11406 has control  
+child 11407 has control  
+signal 1 received by signal handler child 11407 
+child 11407 printing
+On the first day of Christmas
+my true love sent to me:
+A Partridge in a Pear Tree
+
+signaling child 11406 from child 11407
+child 11407 terminating after signal  
+signal 1 received by signal handler child 11406 
+child 11406 printing
+On the second day of Christmas
+my true love sent to me:
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11405 from child 11406
+child 11406 terminating after signal  
+signal 1 received by signal handler child 11405 
+child 11405 printing
+On the third day of Christmas
+my true love sent to me:
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11404 from child 11405
+child 11405 terminating after signal  
+signal 1 received by signal handler child 11404 
+child 11404 printing
+On the fourth day of Christmas
+my true love sent to me:
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11403 from child 11404
+child 11404 terminating after signal  
+signal 1 received by signal handler child 11403 
+child 11403 printing
+On the fifth day of Christmas
+my true love sent to me:
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11402 from child 11403
+child 11403 terminating after signal  
+signal 1 received by signal handler child 11402 
+child 11402 printing
+On the sixth day of Christmas
+my true love sent to me:
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11401 from child 11402
+child 11402 terminating after signal  
+signal 1 received by signal handler child 11401 
+child 11401 printing
+On the seventh day of Christmas
+my true love sent to me:
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11400 from child 11401
+child 11401 terminating after signal  
+signal 1 received by signal handler child 11400 
+child 11400 printing
+On the eighth day of Christmas
+my true love sent to me:
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11399 from child 11400
+child 11400 terminating after signal  
+signal 1 received by signal handler child 11399 
+child 11399 printing
+On the ninth day of Christmas
+my true love sent to me:
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11398 from child 11399
+child 11399 terminating after signal  
+signal 1 received by signal handler child 11398 
+child 11398 printing
+On the tenth day of Christmas
+my true love sent to me:
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11397 from child 11398
+child 11398 terminating after signal  
+signal 1 received by signal handler child 11397 
+child 11397 printing
+On the eleventh day of Christmas
+my true love sent to me:
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11396 from child 11397
+child 11397 terminating after signal  
+signal 1 received by signal handler child 11396 
+child 11396 printing
+On the twelfth day of Christmas
+my true love sent to me:
+Twelve Drummers Drumming
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+child 11396 terminating after signal  
+parent TERMINATING 
+--- Running again ---
+ 
+child 11410 has control  
+child 11411 has control  
+child 11413 has control  
+child 11414 has control  
+child 11412 has control  
+child 11415 has control  
+child 11416 has control  
+child 11417 has control  
+child 11418 has control  
+child 11419 has control  
+parent signalling child 11421
+parent waiting for child to terminate
+child 11421 has control  
+child 11420 has control  
+signal 1 received by signal handler child 11421 
+child 11421 printing
+On the first day of Christmas
+my true love sent to me:
+A Partridge in a Pear Tree
+
+signaling child 11420 from child 11421
+child 11421 terminating after signal  
+signal 1 received by signal handler child 11420 
+child 11420 printing
+On the second day of Christmas
+my true love sent to me:
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11419 from child 11420
+child 11420 terminating after signal  
+signal 1 received by signal handler child 11419 
+child 11419 printing
+On the third day of Christmas
+my true love sent to me:
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11418 from child 11419
+child 11419 terminating after signal  
+signal 1 received by signal handler child 11418 
+child 11418 printing
+On the fourth day of Christmas
+my true love sent to me:
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11417 from child 11418
+child 11418 terminating after signal  
+signal 1 received by signal handler child 11417 
+child 11417 printing
+On the fifth day of Christmas
+my true love sent to me:
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11416 from child 11417
+child 11417 terminating after signal  
+signal 1 received by signal handler child 11416 
+child 11416 printing
+On the sixth day of Christmas
+my true love sent to me:
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11415 from child 11416
+child 11416 terminating after signal  
+signal 1 received by signal handler child 11415 
+child 11415 printing
+On the seventh day of Christmas
+my true love sent to me:
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11414 from child 11415
+child 11415 terminating after signal  
+signal 1 received by signal handler child 11414 
+child 11414 printing
+On the eighth day of Christmas
+my true love sent to me:
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11413 from child 11414
+child 11414 terminating after signal  
+signal 1 received by signal handler child 11413 
+child 11413 printing
+On the ninth day of Christmas
+my true love sent to me:
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11412 from child 11413
+child 11413 terminating after signal  
+signal 1 received by signal handler child 11412 
+child 11412 printing
+On the tenth day of Christmas
+my true love sent to me:
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11411 from child 11412
+child 11412 terminating after signal  
+signal 1 received by signal handler child 11411 
+child 11411 printing
+On the eleventh day of Christmas
+my true love sent to me:
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11410 from child 11411
+child 11411 terminating after signal  
+signal 1 received by signal handler child 11410 
+child 11410 printing
+On the twelfth day of Christmas
+my true love sent to me:
+Twelve Drummers Drumming
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+child 11410 terminating after signal  
+parent TERMINATING 
+--- Running again ---
+ 
+child 11423 has control  
+child 11424 has control  
+child 11425 has control  
+child 11426 has control  
+child 11427 has control  
+child 11428 has control  
+child 11429 has control  
+child 11430 has control  
+child 11431 has control  
+child 11432 has control  
+parent signalling child 11434
+parent waiting for child to terminate
+child 11433 has control  
+child 11434 has control  
+signal 1 received by signal handler child 11434 
+child 11434 printing
+On the first day of Christmas
+my true love sent to me:
+A Partridge in a Pear Tree
+
+signaling child 11433 from child 11434
+child 11434 terminating after signal  
+signal 1 received by signal handler child 11433 
+child 11433 printing
+On the second day of Christmas
+my true love sent to me:
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11432 from child 11433
+child 11433 terminating after signal  
+signal 1 received by signal handler child 11432 
+child 11432 printing
+On the third day of Christmas
+my true love sent to me:
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11431 from child 11432
+child 11432 terminating after signal  
+signal 1 received by signal handler child 11431 
+child 11431 printing
+On the fourth day of Christmas
+my true love sent to me:
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11430 from child 11431
+child 11431 terminating after signal  
+signal 1 received by signal handler child 11430 
+child 11430 printing
+On the fifth day of Christmas
+my true love sent to me:
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11429 from child 11430
+child 11430 terminating after signal  
+signal 1 received by signal handler child 11429 
+child 11429 printing
+On the sixth day of Christmas
+my true love sent to me:
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11428 from child 11429
+child 11429 terminating after signal  
+signal 1 received by signal handler child 11428 
+child 11428 printing
+On the seventh day of Christmas
+my true love sent to me:
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11427 from child 11428
+child 11428 terminating after signal  
+signal 1 received by signal handler child 11427 
+child 11427 printing
+On the eighth day of Christmas
+my true love sent to me:
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11426 from child 11427
+child 11427 terminating after signal  
+signal 1 received by signal handler child 11426 
+child 11426 printing
+On the ninth day of Christmas
+my true love sent to me:
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11425 from child 11426
+child 11426 terminating after signal  
+signal 1 received by signal handler child 11425 
+child 11425 printing
+On the tenth day of Christmas
+my true love sent to me:
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11424 from child 11425
+child 11425 terminating after signal  
+signal 1 received by signal handler child 11424 
+child 11424 printing
+On the eleventh day of Christmas
+my true love sent to me:
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+signaling child 11423 from child 11424
+child 11424 terminating after signal  
+signal 1 received by signal handler child 11423 
+child 11423 printing
+On the twelfth day of Christmas
+my true love sent to me:
+Twelve Drummers Drumming
+Eleven Pipers Piping
+Ten Lords a Leaping
+Nine Ladies Dancing
+Eight Maids a Milking
+Seven Swans a Swimming
+Six Geese a Laying
+Five Golden Rings
+Four Calling Birds
+Three French Hens
+Two Turtle Doves
+and A Partridge in a Pear Tree
+
+child 11423 terminating after signal  
+parent TERMINATING 

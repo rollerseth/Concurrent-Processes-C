@@ -1,0 +1,76 @@
+Username:  rollers
+Date:      Tue Nov 26 14:28:08 EST 2019
+ 
+*** compiling ***
+--- running ---
+ 
+parent signalling child 2829
+parent waiting for child to terminate
+child 2829 has control  
+signal 1 received by signal handler child 2829 
+signaling child 2828 from child 2829
+child 2829 terminating after signal  
+parent terminating 
+child 2828 has control  
+signal 1 received by signal handler child 2828 
+child 2828 terminating after signal  
+--- Running again ---
+ 
+parent signalling child 2832
+parent waiting for child to terminate
+child 2831 has control  
+child 2832 has control  
+signal 1 received by signal handler child 2832 
+signaling child 2831 from child 2832
+child 2832 terminating after signal  
+signal 1 received by signal handler child 2831 
+child 2831 terminating after signal  
+parent terminating 
+--- Running again ---
+ 
+parent signalling child 2835
+parent waiting for child to terminate
+child 2835 has control  
+signal 1 received by signal handler child 2835 
+child 2834 has control  
+signaling child 2834 from child 2835
+child 2835 terminating after signal  
+signal 1 received by signal handler child 2834 
+child 2834 terminating after signal  
+parent terminating 
+--- Running again ---
+ 
+parent signalling child 2838
+parent waiting for child to terminate
+child 2837 has control  
+child 2838 has control  
+signal 1 received by signal handler child 2838 
+signaling child 2837 from child 2838
+child 2838 terminating after signal  
+signal 1 received by signal handler child 2837 
+child 2837 terminating after signal  
+parent terminating 
+--- Running again ---
+ 
+parent signalling child 2841
+parent waiting for child to terminate
+child 2840 has control  
+child 2841 has control  
+signal 1 received by signal handler child 2841 
+signaling child 2840 from child 2841
+child 2841 terminating after signal  
+signal 1 received by signal handler child 2840 
+child 2840 terminating after signal  
+parent terminating 
+--- Running again ---
+ 
+parent signalling child 2844
+child 2843 has control  
+parent waiting for child to terminate
+child 2844 has control  
+signal 1 received by signal handler child 2844 
+signaling child 2843 from child 2844
+child 2844 terminating after signal  
+signal 1 received by signal handler child 2843 
+child 2843 terminating after signal  
+parent terminating 
